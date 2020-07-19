@@ -5,9 +5,9 @@ Thank you to the CurlIt team for making these documents available on their websi
 
 To parse a results book into machine readable format, the following open source Python packages might be of use to you.
 
-PDFMiner
-PyPDF2
-Slate (wrapper implementation of PDFMiner)
-PDFQuery (wrapper of PDFMiner, lxml, and pyquery)
+* PDFMiner
+* PyPDF2
+* Slate (wrapper implementation of PDFMiner)
+* PDFQuery (wrapper of PDFMiner, lxml, and pyquery)
 
 Note: these files are very large! At some point, I may remove them from Github and store them on S3, so do not link to them directly!

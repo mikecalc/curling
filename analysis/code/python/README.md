@@ -1,0 +1,1 @@
+This directory contains Python code for analyzing curling games. To add new code, first create a directory for your project, and add your code there.

@@ -1,0 +1,1 @@
+Spreadsheets relating to curling analysis. To add a spreadsheet, create a project directory first, and then add your spreadsheet.

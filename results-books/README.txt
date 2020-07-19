@@ -10,3 +10,6 @@ PyPDF2
 Slate (wrapper implementation of PDFMiner)
 PDFQuery (wrapper of PDFMiner, lxml, and pyquery)
 
+Note: these files are very large! At some point, I may remove them from Github and store them on S3, so do not link to them directly!
+
+

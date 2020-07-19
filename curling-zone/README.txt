@@ -1,0 +1,1 @@
+This directory contains publicly available data from the curlingzone website.

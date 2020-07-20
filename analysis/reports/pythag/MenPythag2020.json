@@ -1,0 +1,5202 @@
+[
+    {
+        "TeamName": "Brad Jacobs",
+        "WinningPct": 0.776,
+        "Pythag1": 0.717,
+        "Wins": 59,
+        "Wins1": 54.5,
+        "Delta": 4.5
+    },
+    {
+        "TeamName": "John Epping",
+        "WinningPct": 0.7,
+        "Pythag1": 0.623,
+        "Wins": 56,
+        "Wins1": 49.8,
+        "Delta": 6.200000000000003
+    },
+    {
+        "TeamName": "Brad Gushue",
+        "WinningPct": 0.704,
+        "Pythag1": 0.666,
+        "Wins": 57,
+        "Wins1": 53.9,
+        "Delta": 3.1000000000000014
+    },
+    {
+        "TeamName": "Brendan Bottcher",
+        "WinningPct": 0.71,
+        "Pythag1": 0.669,
+        "Wins": 49,
+        "Wins1": 46.2,
+        "Delta": 2.799999999999997
+    },
+    {
+        "TeamName": "Bruce Mouat",
+        "WinningPct": 0.706,
+        "Pythag1": 0.713,
+        "Wins": 60,
+        "Wins1": 60.6,
+        "Delta": -0.6000000000000014
+    },
+    {
+        "TeamName": "Yannick Schwaller",
+        "WinningPct": 0.639,
+        "Pythag1": 0.583,
+        "Wins": 62,
+        "Wins1": 56.6,
+        "Delta": 5.399999999999999
+    },
+    {
+        "TeamName": "Mike McEwen",
+        "WinningPct": 0.648,
+        "Pythag1": 0.63,
+        "Wins": 59,
+        "Wins1": 57.3,
+        "Delta": 1.7000000000000028
+    },
+    {
+        "TeamName": "Niklas Edin",
+        "WinningPct": 0.688,
+        "Pythag1": 0.742,
+        "Wins": 44,
+        "Wins1": 47.5,
+        "Delta": -3.5
+    },
+    {
+        "TeamName": "Peter De Cruz",
+        "WinningPct": 0.676,
+        "Pythag1": 0.633,
+        "Wins": 50,
+        "Wins1": 46.8,
+        "Delta": 3.200000000000003
+    },
+    {
+        "TeamName": "Kevin Koe",
+        "WinningPct": 0.594,
+        "Pythag1": 0.599,
+        "Wins": 38,
+        "Wins1": 38.3,
+        "Delta": -0.29999999999999716
+    },
+    {
+        "TeamName": "Matt Dunstone",
+        "WinningPct": 0.568,
+        "Pythag1": 0.603,
+        "Wins": 42,
+        "Wins1": 44.6,
+        "Delta": -2.6000000000000014
+    },
+    {
+        "TeamName": "Ross Paterson",
+        "WinningPct": 0.636,
+        "Pythag1": 0.616,
+        "Wins": 49,
+        "Wins1": 47.4,
+        "Delta": 1.6000000000000014
+    },
+    {
+        "TeamName": "Jason Gunnlaugson",
+        "WinningPct": 0.65,
+        "Pythag1": 0.642,
+        "Wins": 65,
+        "Wins1": 64.2,
+        "Delta": 0.7999999999999972
+    },
+    {
+        "TeamName": "Korey Dropkin",
+        "WinningPct": 0.662,
+        "Pythag1": 0.649,
+        "Wins": 43,
+        "Wins1": 42.2,
+        "Delta": 0.7999999999999972
+    },
+    {
+        "TeamName": "Rich Ruohonen",
+        "WinningPct": 0.716,
+        "Pythag1": 0.705,
+        "Wins": 58,
+        "Wins1": 57.1,
+        "Delta": 0.8999999999999986
+    },
+    {
+        "TeamName": "Yuta Matsumura",
+        "WinningPct": 0.701,
+        "Pythag1": 0.696,
+        "Wins": 61,
+        "Wins1": 60.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Ross Whyte",
+        "WinningPct": 0.747,
+        "Pythag1": 0.728,
+        "Wins": 59,
+        "Wins1": 57.5,
+        "Delta": 1.5
+    },
+    {
+        "TeamName": "Glenn Howard",
+        "WinningPct": 0.552,
+        "Pythag1": 0.519,
+        "Wins": 32,
+        "Wins1": 30.1,
+        "Delta": 1.8999999999999986
+    },
+    {
+        "TeamName": "John Shuster",
+        "WinningPct": 0.705,
+        "Pythag1": 0.668,
+        "Wins": 43,
+        "Wins1": 40.7,
+        "Delta": 2.299999999999997
+    },
+    {
+        "TeamName": "Chang-Min Kim",
+        "WinningPct": 0.779,
+        "Pythag1": 0.763,
+        "Wins": 53,
+        "Wins1": 51.9,
+        "Delta": 1.1000000000000014
+    },
+    {
+        "TeamName": "Tanner Horgan",
+        "WinningPct": 0.724,
+        "Pythag1": 0.682,
+        "Wins": 42,
+        "Wins1": 39.6,
+        "Delta": 2.3999999999999986
+    },
+    {
+        "TeamName": "Scott McDonald",
+        "WinningPct": 0.521,
+        "Pythag1": 0.517,
+        "Wins": 37,
+        "Wins1": 36.7,
+        "Delta": 0.29999999999999716
+    },
+    {
+        "TeamName": "Braden Calvert",
+        "WinningPct": 0.582,
+        "Pythag1": 0.623,
+        "Wins": 39,
+        "Wins1": 41.7,
+        "Delta": -2.700000000000003
+    },
+    {
+        "TeamName": "Kirk Muyres",
+        "WinningPct": 0.517,
+        "Pythag1": 0.55,
+        "Wins": 31,
+        "Wins1": 33.0,
+        "Delta": -2.0
+    },
+    {
+        "TeamName": "Tyler Tardi",
+        "WinningPct": 0.672,
+        "Pythag1": 0.685,
+        "Wins": 43,
+        "Wins1": 43.8,
+        "Delta": -0.7999999999999972
+    },
+    {
+        "TeamName": "Jeremy Harty",
+        "WinningPct": 0.704,
+        "Pythag1": 0.651,
+        "Wins": 38,
+        "Wins1": 35.2,
+        "Delta": 2.799999999999997
+    },
+    {
+        "TeamName": "Cameron Bryce",
+        "WinningPct": 0.578,
+        "Pythag1": 0.589,
+        "Wins": 37,
+        "Wins1": 37.7,
+        "Delta": -0.7000000000000028
+    },
+    {
+        "TeamName": "Jaap van Dorp",
+        "WinningPct": 0.507,
+        "Pythag1": 0.504,
+        "Wins": 38,
+        "Wins1": 37.8,
+        "Delta": 0.20000000000000284
+    },
+    {
+        "TeamName": "Glen Muirhead",
+        "WinningPct": 0.667,
+        "Pythag1": 0.659,
+        "Wins": 32,
+        "Wins1": 31.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Joel Retornaz",
+        "WinningPct": 0.583,
+        "Pythag1": 0.547,
+        "Wins": 7,
+        "Wins1": 6.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Karsten Sturmay",
+        "WinningPct": 0.654,
+        "Pythag1": 0.581,
+        "Wins": 34,
+        "Wins1": 30.2,
+        "Delta": 3.8000000000000007
+    },
+    {
+        "TeamName": "Thomas Ulsrud",
+        "WinningPct": 0.589,
+        "Pythag1": 0.568,
+        "Wins": 33,
+        "Wins1": 31.8,
+        "Delta": 1.1999999999999993
+    },
+    {
+        "TeamName": "Pat Ferris",
+        "WinningPct": 0.607,
+        "Pythag1": 0.552,
+        "Wins": 34,
+        "Wins1": 30.9,
+        "Delta": 3.1000000000000014
+    },
+    {
+        "TeamName": "Jamie Murphy",
+        "WinningPct": 0.655,
+        "Pythag1": 0.64,
+        "Wins": 36,
+        "Wins1": 35.2,
+        "Delta": 0.7999999999999972
+    },
+    {
+        "TeamName": "Michael Fournier",
+        "WinningPct": 0.608,
+        "Pythag1": 0.645,
+        "Wins": 31,
+        "Wins1": 32.9,
+        "Delta": -1.8999999999999986
+    },
+    {
+        "TeamName": "Corey Chambers",
+        "WinningPct": 0.625,
+        "Pythag1": 0.617,
+        "Wins": 30,
+        "Wins1": 29.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Jacques Gauthier",
+        "WinningPct": 0.675,
+        "Pythag1": 0.605,
+        "Wins": 52,
+        "Wins1": 46.6,
+        "Delta": 5.399999999999999
+    },
+    {
+        "TeamName": "Tsuyoshi Yamaguchi",
+        "WinningPct": 0.667,
+        "Pythag1": 0.66,
+        "Wins": 44,
+        "Wins1": 44.2,
+        "Delta": -0.20000000000000284
+    },
+    {
+        "TeamName": "Vincent Roberge",
+        "WinningPct": 0.711,
+        "Pythag1": 0.651,
+        "Wins": 27,
+        "Wins1": 24.7,
+        "Delta": 2.3000000000000007
+    },
+    {
+        "TeamName": "Yusuke Morozumi",
+        "WinningPct": 0.6,
+        "Pythag1": 0.697,
+        "Wins": 45,
+        "Wins1": 52.3,
+        "Delta": -7.299999999999997
+    },
+    {
+        "TeamName": "Lucien Lottenbach",
+        "WinningPct": 0.545,
+        "Pythag1": 0.56,
+        "Wins": 36,
+        "Wins1": 37.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Qiang Zou",
+        "WinningPct": 0.571,
+        "Pythag1": 0.642,
+        "Wins": 36,
+        "Wins1": 40.4,
+        "Delta": -4.399999999999999
+    },
+    {
+        "TeamName": "Jan Hess",
+        "WinningPct": 0.5,
+        "Pythag1": 0.506,
+        "Wins": 35,
+        "Wins1": 35.4,
+        "Delta": -0.3999999999999986
+    },
+    {
+        "TeamName": "Sergei Glukhov",
+        "WinningPct": 0.479,
+        "Pythag1": 0.492,
+        "Wins": 35,
+        "Wins1": 35.9,
+        "Delta": -0.8999999999999986
+    },
+    {
+        "TeamName": "Jim Cotter",
+        "WinningPct": 0.61,
+        "Pythag1": 0.592,
+        "Wins": 36,
+        "Wins1": 34.9,
+        "Delta": 1.1000000000000014
+    },
+    {
+        "TeamName": "Sean Grassie",
+        "WinningPct": 0.574,
+        "Pythag1": 0.505,
+        "Wins": 35,
+        "Wins1": 30.8,
+        "Delta": 4.199999999999999
+    },
+    {
+        "TeamName": "Jason Jacobson",
+        "WinningPct": 0.6,
+        "Pythag1": 0.578,
+        "Wins": 30,
+        "Wins1": 28.9,
+        "Delta": 1.1000000000000014
+    },
+    {
+        "TeamName": "Mark Kean",
+        "WinningPct": 0.51,
+        "Pythag1": 0.504,
+        "Wins": 26,
+        "Wins1": 25.7,
+        "Delta": 0.3000000000000007
+    },
+    {
+        "TeamName": "JT Ryan",
+        "WinningPct": 0.592,
+        "Pythag1": 0.614,
+        "Wins": 29,
+        "Wins1": 30.1,
+        "Delta": -1.1000000000000014
+    },
+    {
+        "TeamName": "Ryan Wiebe",
+        "WinningPct": 0.717,
+        "Pythag1": 0.678,
+        "Wins": 33,
+        "Wins1": 31.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Dominik Maerki",
+        "WinningPct": 0.6,
+        "Pythag1": 0.587,
+        "Wins": 30,
+        "Wins1": 29.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Shaun Meachem",
+        "WinningPct": 0.622,
+        "Pythag1": 0.609,
+        "Wins": 28,
+        "Wins1": 27.4,
+        "Delta": 0.6000000000000014
+    },
+    {
+        "TeamName": "Scott Dunnam",
+        "WinningPct": 0.632,
+        "Pythag1": 0.634,
+        "Wins": 36,
+        "Wins1": 36.1,
+        "Delta": -0.10000000000000142
+    },
+    {
+        "TeamName": "James Pahl",
+        "WinningPct": 0.742,
+        "Pythag1": 0.593,
+        "Wins": 23,
+        "Wins1": 18.4,
+        "Delta": 4.600000000000001
+    },
+    {
+        "TeamName": "Wayne Tuck Jr.",
+        "WinningPct": 0.636,
+        "Pythag1": 0.667,
+        "Wins": 7,
+        "Wins1": 7.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Dennis Bohn",
+        "WinningPct": 0.571,
+        "Pythag1": 0.62,
+        "Wins": 24,
+        "Wins1": 26.0,
+        "Delta": -2.0
+    },
+    {
+        "TeamName": "William Lyburn",
+        "WinningPct": 0.574,
+        "Pythag1": 0.556,
+        "Wins": 27,
+        "Wins1": 26.1,
+        "Delta": 0.8999999999999986
+    },
+    {
+        "TeamName": "Chad Stevens",
+        "WinningPct": 0.587,
+        "Pythag1": 0.548,
+        "Wins": 27,
+        "Wins1": 25.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Todd Birr",
+        "WinningPct": 0.527,
+        "Pythag1": 0.525,
+        "Wins": 29,
+        "Wins1": 28.9,
+        "Delta": 0.10000000000000142
+    },
+    {
+        "TeamName": "Magnus Ramsfjell",
+        "WinningPct": 0.625,
+        "Pythag1": 0.62,
+        "Wins": 20,
+        "Wins1": 19.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Aaron Sluchinski",
+        "WinningPct": 0.667,
+        "Pythag1": 0.585,
+        "Wins": 22,
+        "Wins1": 19.3,
+        "Delta": 2.6999999999999993
+    },
+    {
+        "TeamName": "Lukas Klima",
+        "WinningPct": 0.591,
+        "Pythag1": 0.615,
+        "Wins": 26,
+        "Wins1": 27.1,
+        "Delta": -1.1000000000000014
+    },
+    {
+        "TeamName": "Ty Dilello",
+        "WinningPct": 0.46,
+        "Pythag1": 0.474,
+        "Wins": 23,
+        "Wins1": 23.7,
+        "Delta": -0.6999999999999993
+    },
+    {
+        "TeamName": "Luc Violette",
+        "WinningPct": 0.614,
+        "Pythag1": 0.591,
+        "Wins": 35,
+        "Wins1": 33.7,
+        "Delta": 1.2999999999999972
+    },
+    {
+        "TeamName": "Stuart Thompson",
+        "WinningPct": 0.531,
+        "Pythag1": 0.539,
+        "Wins": 26,
+        "Wins1": 26.4,
+        "Delta": -0.3999999999999986
+    },
+    {
+        "TeamName": "Brent Gedak",
+        "WinningPct": 0.628,
+        "Pythag1": 0.643,
+        "Wins": 27,
+        "Wins1": 27.6,
+        "Delta": -0.6000000000000014
+    },
+    {
+        "TeamName": "James Grattan",
+        "WinningPct": 0.634,
+        "Pythag1": 0.611,
+        "Wins": 26,
+        "Wins1": 25.1,
+        "Delta": 0.8999999999999986
+    },
+    {
+        "TeamName": "Martin Ferland",
+        "WinningPct": 0.553,
+        "Pythag1": 0.52,
+        "Wins": 21,
+        "Wins1": 19.8,
+        "Delta": 1.1999999999999993
+    },
+    {
+        "TeamName": "Jason Camm",
+        "WinningPct": 0.6,
+        "Pythag1": 0.581,
+        "Wins": 27,
+        "Wins1": 26.1,
+        "Delta": 0.8999999999999986
+    },
+    {
+        "TeamName": "Andrin Schnider",
+        "WinningPct": 0.361,
+        "Pythag1": 0.381,
+        "Wins": 22,
+        "Wins1": 23.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Jeff Richard",
+        "WinningPct": 0.553,
+        "Pythag1": 0.609,
+        "Wins": 26,
+        "Wins1": 28.6,
+        "Delta": -2.6000000000000014
+    },
+    {
+        "TeamName": "John Willsey",
+        "WinningPct": 0.481,
+        "Pythag1": 0.5,
+        "Wins": 25,
+        "Wins1": 26.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Ted Appelman",
+        "WinningPct": 0.636,
+        "Pythag1": 0.616,
+        "Wins": 21,
+        "Wins1": 20.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Carter Lautner",
+        "WinningPct": 0.59,
+        "Pythag1": 0.508,
+        "Wins": 23,
+        "Wins1": 19.8,
+        "Delta": 3.1999999999999993
+    },
+    {
+        "TeamName": "Kody Hartung",
+        "WinningPct": 0.523,
+        "Pythag1": 0.498,
+        "Wins": 23,
+        "Wins1": 21.9,
+        "Delta": 1.1000000000000014
+    },
+    {
+        "TeamName": "Daniel Magnusson",
+        "WinningPct": 0.538,
+        "Pythag1": 0.485,
+        "Wins": 28,
+        "Wins1": 25.2,
+        "Delta": 2.8000000000000007
+    },
+    {
+        "TeamName": "Kendal Thompson",
+        "WinningPct": 0.54,
+        "Pythag1": 0.514,
+        "Wins": 27,
+        "Wins1": 25.7,
+        "Delta": 1.3000000000000007
+    },
+    {
+        "TeamName": "Scott Jones",
+        "WinningPct": 0.615,
+        "Pythag1": 0.574,
+        "Wins": 24,
+        "Wins1": 22.4,
+        "Delta": 1.6000000000000014
+    },
+    {
+        "TeamName": "Sean Geall",
+        "WinningPct": 0.537,
+        "Pythag1": 0.552,
+        "Wins": 22,
+        "Wins1": 22.6,
+        "Delta": -0.6000000000000014
+    },
+    {
+        "TeamName": "Jed Brundidge",
+        "WinningPct": 0.451,
+        "Pythag1": 0.475,
+        "Wins": 23,
+        "Wins1": 24.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Simon Gempeler",
+        "WinningPct": 0.482,
+        "Pythag1": 0.495,
+        "Wins": 27,
+        "Wins1": 27.7,
+        "Delta": -0.6999999999999993
+    },
+    {
+        "TeamName": "Fredrik Nyman",
+        "WinningPct": 0.467,
+        "Pythag1": 0.458,
+        "Wins": 21,
+        "Wins1": 20.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Jan Klossner",
+        "WinningPct": 0.419,
+        "Pythag1": 0.385,
+        "Wins": 18,
+        "Wins1": 16.6,
+        "Delta": 1.3999999999999986
+    },
+    {
+        "TeamName": "SooHyuk Kim",
+        "WinningPct": 0.524,
+        "Pythag1": 0.512,
+        "Wins": 11,
+        "Wins1": 10.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Daniel Wenzek",
+        "WinningPct": 0.526,
+        "Pythag1": 0.529,
+        "Wins": 20,
+        "Wins1": 20.1,
+        "Delta": -0.10000000000000142
+    },
+    {
+        "TeamName": "Jean-Sebastien Roy",
+        "WinningPct": 0.615,
+        "Pythag1": 0.532,
+        "Wins": 16,
+        "Wins1": 13.8,
+        "Delta": 2.1999999999999993
+    },
+    {
+        "TeamName": "Richard Krell",
+        "WinningPct": 0.594,
+        "Pythag1": 0.573,
+        "Wins": 19,
+        "Wins1": 18.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Marc Muskatewitz",
+        "WinningPct": 0.489,
+        "Pythag1": 0.48,
+        "Wins": 22,
+        "Wins1": 21.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Brent MacDougall",
+        "WinningPct": 0.487,
+        "Pythag1": 0.469,
+        "Wins": 19,
+        "Wins1": 18.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Steven Howard",
+        "WinningPct": 0.511,
+        "Pythag1": 0.473,
+        "Wins": 24,
+        "Wins1": 22.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Sandy MacEwan",
+        "WinningPct": 0.7,
+        "Pythag1": 0.709,
+        "Wins": 21,
+        "Wins1": 21.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Jermu Pollanen",
+        "WinningPct": 0.657,
+        "Pythag1": 0.674,
+        "Wins": 23,
+        "Wins1": 23.6,
+        "Delta": -0.6000000000000014
+    },
+    {
+        "TeamName": "Bruce Korte",
+        "WinningPct": 0.737,
+        "Pythag1": 0.717,
+        "Wins": 14,
+        "Wins1": 13.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Rob Ainsley",
+        "WinningPct": 0.514,
+        "Pythag1": 0.473,
+        "Wins": 19,
+        "Wins1": 17.5,
+        "Delta": 1.5
+    },
+    {
+        "TeamName": "Daniel Birchard",
+        "WinningPct": 0.56,
+        "Pythag1": 0.555,
+        "Wins": 14,
+        "Wins1": 13.9,
+        "Delta": 0.09999999999999964
+    },
+    {
+        "TeamName": "Mark Homan",
+        "WinningPct": 0.656,
+        "Pythag1": 0.596,
+        "Wins": 21,
+        "Wins1": 19.1,
+        "Delta": 1.8999999999999986
+    },
+    {
+        "TeamName": "Chase Sinnett",
+        "WinningPct": 0.465,
+        "Pythag1": 0.512,
+        "Wins": 20,
+        "Wins1": 22.0,
+        "Delta": -2.0
+    },
+    {
+        "TeamName": "Alek Bedard",
+        "WinningPct": 0.548,
+        "Pythag1": 0.552,
+        "Wins": 17,
+        "Wins1": 17.1,
+        "Delta": -0.10000000000000142
+    },
+    {
+        "TeamName": "Matthew Hall",
+        "WinningPct": 0.435,
+        "Pythag1": 0.517,
+        "Wins": 20,
+        "Wins1": 23.8,
+        "Delta": -3.8000000000000007
+    },
+    {
+        "TeamName": "Tyler Stewart",
+        "WinningPct": 0.667,
+        "Pythag1": 0.602,
+        "Wins": 8,
+        "Wins1": 7.2,
+        "Delta": 0.7999999999999998
+    },
+    {
+        "TeamName": "Evan van Amsterdam",
+        "WinningPct": 0.528,
+        "Pythag1": 0.556,
+        "Wins": 19,
+        "Wins1": 20.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Andrew Symonds",
+        "WinningPct": 0.605,
+        "Pythag1": 0.559,
+        "Wins": 23,
+        "Wins1": 21.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Josh Heidt",
+        "WinningPct": 0.548,
+        "Pythag1": 0.511,
+        "Wins": 23,
+        "Wins1": 21.5,
+        "Delta": 1.5
+    },
+    {
+        "TeamName": "Steven Munroe",
+        "WinningPct": 0.576,
+        "Pythag1": 0.599,
+        "Wins": 19,
+        "Wins1": 19.8,
+        "Delta": -0.8000000000000007
+    },
+    {
+        "TeamName": "Jake Horgan",
+        "WinningPct": 0.452,
+        "Pythag1": 0.502,
+        "Wins": 19,
+        "Wins1": 21.1,
+        "Delta": -2.1000000000000014
+    },
+    {
+        "TeamName": "Steve Allen",
+        "WinningPct": 0.469,
+        "Pythag1": 0.512,
+        "Wins": 15,
+        "Wins1": 16.4,
+        "Delta": -1.3999999999999986
+    },
+    {
+        "TeamName": "James Craik",
+        "WinningPct": 0.571,
+        "Pythag1": 0.558,
+        "Wins": 20,
+        "Wins1": 19.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Borys Jasiecki",
+        "WinningPct": 0.643,
+        "Pythag1": 0.629,
+        "Wins": 18,
+        "Wins1": 17.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Greg Balsdon",
+        "WinningPct": 0.667,
+        "Pythag1": 0.655,
+        "Wins": 20,
+        "Wins1": 19.7,
+        "Delta": 0.3000000000000007
+    },
+    {
+        "TeamName": "Jongduk Park",
+        "WinningPct": 0.632,
+        "Pythag1": 0.628,
+        "Wins": 12,
+        "Wins1": 11.9,
+        "Delta": 0.09999999999999964
+    },
+    {
+        "TeamName": "Sam Steep",
+        "WinningPct": 0.4,
+        "Pythag1": 0.404,
+        "Wins": 16,
+        "Wins1": 16.2,
+        "Delta": -0.1999999999999993
+    },
+    {
+        "TeamName": "Dayna Deruelle",
+        "WinningPct": 0.536,
+        "Pythag1": 0.528,
+        "Wins": 15,
+        "Wins1": 14.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Yves Wagenseil",
+        "WinningPct": 0.405,
+        "Pythag1": 0.437,
+        "Wins": 15,
+        "Wins1": 16.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Steve Irwin",
+        "WinningPct": 0.737,
+        "Pythag1": 0.641,
+        "Wins": 14,
+        "Wins1": 12.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Rylan Kleiter",
+        "WinningPct": 0.633,
+        "Pythag1": 0.607,
+        "Wins": 19,
+        "Wins1": 18.2,
+        "Delta": 0.8000000000000007
+    },
+    {
+        "TeamName": "Marco Hoesli",
+        "WinningPct": 0.477,
+        "Pythag1": 0.527,
+        "Wins": 21,
+        "Wins1": 23.2,
+        "Delta": -2.1999999999999993
+    },
+    {
+        "TeamName": "Bryan Cochrane",
+        "WinningPct": 0.577,
+        "Pythag1": 0.589,
+        "Wins": 15,
+        "Wins1": 15.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Ryan Deis",
+        "WinningPct": 0.517,
+        "Pythag1": 0.485,
+        "Wins": 15,
+        "Wins1": 14.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Jason Montgomery",
+        "WinningPct": 0.48,
+        "Pythag1": 0.464,
+        "Wins": 12,
+        "Wins1": 11.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Ed Cyr",
+        "WinningPct": 0.424,
+        "Pythag1": 0.5,
+        "Wins": 14,
+        "Wins1": 16.5,
+        "Delta": -2.5
+    },
+    {
+        "TeamName": "Dean Joanisse",
+        "WinningPct": 0.538,
+        "Pythag1": 0.515,
+        "Wins": 14,
+        "Wins1": 13.4,
+        "Delta": 0.5999999999999996
+    },
+    {
+        "TeamName": "Mikkel Krause",
+        "WinningPct": 0.5,
+        "Pythag1": 0.496,
+        "Wins": 11,
+        "Wins1": 10.9,
+        "Delta": 0.09999999999999964
+    },
+    {
+        "TeamName": "Trent Skanes",
+        "WinningPct": 0.677,
+        "Pythag1": 0.64,
+        "Wins": 21,
+        "Wins1": 19.8,
+        "Delta": 1.1999999999999993
+    },
+    {
+        "TeamName": "Matthew Manuel",
+        "WinningPct": 0.531,
+        "Pythag1": 0.57,
+        "Wins": 17,
+        "Wins1": 18.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Kelly Marnoch",
+        "WinningPct": 0.438,
+        "Pythag1": 0.458,
+        "Wins": 7,
+        "Wins1": 7.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Cory Heggestad",
+        "WinningPct": 0.526,
+        "Pythag1": 0.51,
+        "Wins": 10,
+        "Wins1": 9.7,
+        "Delta": 0.3000000000000007
+    },
+    {
+        "TeamName": "Sergio Vez",
+        "WinningPct": 0.667,
+        "Pythag1": 0.722,
+        "Wins": 20,
+        "Wins1": 21.7,
+        "Delta": -1.6999999999999993
+    },
+    {
+        "TeamName": "Cameron Goodkey",
+        "WinningPct": 0.286,
+        "Pythag1": 0.374,
+        "Wins": 2,
+        "Wins1": 2.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Steffen R. Mellemseter",
+        "WinningPct": 0.471,
+        "Pythag1": 0.494,
+        "Wins": 8,
+        "Wins1": 8.4,
+        "Delta": -0.40000000000000036
+    },
+    {
+        "TeamName": "Martins Truksans",
+        "WinningPct": 0.545,
+        "Pythag1": 0.508,
+        "Wins": 18,
+        "Wins1": 16.8,
+        "Delta": 1.1999999999999993
+    },
+    {
+        "TeamName": "Scott Webb",
+        "WinningPct": 0.588,
+        "Pythag1": 0.555,
+        "Wins": 20,
+        "Wins1": 18.9,
+        "Delta": 1.1000000000000014
+    },
+    {
+        "TeamName": "Hamish Gallacher",
+        "WinningPct": 0.556,
+        "Pythag1": 0.549,
+        "Wins": 15,
+        "Wins1": 14.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Cole Adams",
+        "WinningPct": 0.545,
+        "Pythag1": 0.535,
+        "Wins": 12,
+        "Wins1": 11.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Jordan Smith",
+        "WinningPct": 0.441,
+        "Pythag1": 0.549,
+        "Wins": 15,
+        "Wins1": 18.7,
+        "Delta": -3.6999999999999993
+    },
+    {
+        "TeamName": "Jordan Chandler",
+        "WinningPct": 0.486,
+        "Pythag1": 0.473,
+        "Wins": 17,
+        "Wins1": 16.6,
+        "Delta": 0.3999999999999986
+    },
+    {
+        "TeamName": "Daniel Bruce",
+        "WinningPct": 0.625,
+        "Pythag1": 0.542,
+        "Wins": 15,
+        "Wins1": 13.0,
+        "Delta": 2.0
+    },
+    {
+        "TeamName": "Brandon Corbett",
+        "WinningPct": 0.559,
+        "Pythag1": 0.518,
+        "Wins": 19,
+        "Wins1": 17.6,
+        "Delta": 1.3999999999999986
+    },
+    {
+        "TeamName": "Ryan Jacques",
+        "WinningPct": 0.571,
+        "Pythag1": 0.543,
+        "Wins": 12,
+        "Wins1": 11.4,
+        "Delta": 0.5999999999999996
+    },
+    {
+        "TeamName": "Rob Johnson",
+        "WinningPct": 0.5,
+        "Pythag1": 0.5,
+        "Wins": 14,
+        "Wins1": 14.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Brad Wood",
+        "WinningPct": 0.344,
+        "Pythag1": 0.443,
+        "Wins": 11,
+        "Wins1": 14.2,
+        "Delta": -3.1999999999999993
+    },
+    {
+        "TeamName": "Brett Walter",
+        "WinningPct": 0.468,
+        "Pythag1": 0.504,
+        "Wins": 22,
+        "Wins1": 23.7,
+        "Delta": -1.6999999999999993
+    },
+    {
+        "TeamName": "Neil Dangerfield",
+        "WinningPct": 0.423,
+        "Pythag1": 0.474,
+        "Wins": 11,
+        "Wins1": 12.3,
+        "Delta": -1.3000000000000007
+    },
+    {
+        "TeamName": "Jason Roach",
+        "WinningPct": 0.722,
+        "Pythag1": 0.649,
+        "Wins": 13,
+        "Wins1": 11.7,
+        "Delta": 1.3000000000000007
+    },
+    {
+        "TeamName": "Colin Thomas",
+        "WinningPct": 0.643,
+        "Pythag1": 0.615,
+        "Wins": 18,
+        "Wins1": 17.2,
+        "Delta": 0.8000000000000007
+    },
+    {
+        "TeamName": "Wes Craig",
+        "WinningPct": 0.5,
+        "Pythag1": 0.477,
+        "Wins": 8,
+        "Wins1": 7.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Doug Johnston",
+        "WinningPct": 0.667,
+        "Pythag1": 0.598,
+        "Wins": 10,
+        "Wins1": 9.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Kevin Park",
+        "WinningPct": 0.414,
+        "Pythag1": 0.433,
+        "Wins": 12,
+        "Wins1": 12.6,
+        "Delta": -0.5999999999999996
+    },
+    {
+        "TeamName": "Sam Wills",
+        "WinningPct": 0.444,
+        "Pythag1": 0.421,
+        "Wins": 12,
+        "Wins1": 11.4,
+        "Delta": 0.5999999999999996
+    },
+    {
+        "TeamName": "Brady Kendel",
+        "WinningPct": 0.565,
+        "Pythag1": 0.555,
+        "Wins": 13,
+        "Wins1": 12.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Brad Heidt",
+        "WinningPct": 0.458,
+        "Pythag1": 0.442,
+        "Wins": 11,
+        "Wins1": 10.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Rene Comeau",
+        "WinningPct": 0.55,
+        "Pythag1": 0.515,
+        "Wins": 11,
+        "Wins1": 10.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Simon Hebert",
+        "WinningPct": 0.333,
+        "Pythag1": 0.346,
+        "Wins": 8,
+        "Wins1": 8.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Shane Vollman",
+        "WinningPct": 0.469,
+        "Pythag1": 0.495,
+        "Wins": 15,
+        "Wins1": 15.8,
+        "Delta": -0.8000000000000007
+    },
+    {
+        "TeamName": "Riley Smith",
+        "WinningPct": 0.308,
+        "Pythag1": 0.385,
+        "Wins": 12,
+        "Wins1": 15.0,
+        "Delta": -3.0
+    },
+    {
+        "TeamName": "Shingo Usui",
+        "WinningPct": 0.382,
+        "Pythag1": 0.413,
+        "Wins": 13,
+        "Wins1": 14.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Tobias Thune",
+        "WinningPct": 0.824,
+        "Pythag1": 0.718,
+        "Wins": 14,
+        "Wins1": 12.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Warren Cross",
+        "WinningPct": 0.484,
+        "Pythag1": 0.469,
+        "Wins": 15,
+        "Wins1": 14.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Codey Maus",
+        "WinningPct": 0.833,
+        "Pythag1": 0.715,
+        "Wins": 5,
+        "Wins1": 4.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "David Sik",
+        "WinningPct": 0.455,
+        "Pythag1": 0.421,
+        "Wins": 10,
+        "Wins1": 9.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Jacob Libbus",
+        "WinningPct": 0.545,
+        "Pythag1": 0.503,
+        "Wins": 12,
+        "Wins1": 11.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Junpei Kanda",
+        "WinningPct": 0.342,
+        "Pythag1": 0.32,
+        "Wins": 13,
+        "Wins1": 12.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Terry Meek",
+        "WinningPct": 0.421,
+        "Pythag1": 0.509,
+        "Wins": 8,
+        "Wins1": 9.7,
+        "Delta": -1.6999999999999993
+    },
+    {
+        "TeamName": "Trevor Loreth",
+        "WinningPct": 0.5,
+        "Pythag1": 0.403,
+        "Wins": 5,
+        "Wins1": 4.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Sean O'Connor",
+        "WinningPct": 0.429,
+        "Pythag1": 0.366,
+        "Wins": 9,
+        "Wins1": 7.7,
+        "Delta": 1.2999999999999998
+    },
+    {
+        "TeamName": "Sixten Totzek",
+        "WinningPct": 0.588,
+        "Pythag1": 0.564,
+        "Wins": 10,
+        "Wins1": 9.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Mark Lukowich",
+        "WinningPct": 0.5,
+        "Pythag1": 0.414,
+        "Wins": 5,
+        "Wins1": 4.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Kyle Kakela",
+        "WinningPct": 0.562,
+        "Pythag1": 0.477,
+        "Wins": 9,
+        "Wins1": 7.6,
+        "Delta": 1.4000000000000004
+    },
+    {
+        "TeamName": "Ben Gamble",
+        "WinningPct": 0.458,
+        "Pythag1": 0.47,
+        "Wins": 11,
+        "Wins1": 11.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Michael Carss",
+        "WinningPct": 0.481,
+        "Pythag1": 0.524,
+        "Wins": 13,
+        "Wins1": 14.1,
+        "Delta": -1.0999999999999996
+    },
+    {
+        "TeamName": "Jeff Hartung",
+        "WinningPct": 0.474,
+        "Pythag1": 0.49,
+        "Wins": 9,
+        "Wins1": 9.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Steven Birklid",
+        "WinningPct": 0.5,
+        "Pythag1": 0.493,
+        "Wins": 11,
+        "Wins1": 10.8,
+        "Delta": 0.1999999999999993
+    },
+    {
+        "TeamName": "Cole Tenetuik",
+        "WinningPct": 0.562,
+        "Pythag1": 0.506,
+        "Wins": 9,
+        "Wins1": 8.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Mark Longworth",
+        "WinningPct": 0.381,
+        "Pythag1": 0.424,
+        "Wins": 8,
+        "Wins1": 8.9,
+        "Delta": -0.9000000000000004
+    },
+    {
+        "TeamName": "Darryl Sobering",
+        "WinningPct": 0.444,
+        "Pythag1": 0.552,
+        "Wins": 8,
+        "Wins1": 9.9,
+        "Delta": -1.9000000000000004
+    },
+    {
+        "TeamName": "Alexander Lindstroem",
+        "WinningPct": 0.667,
+        "Pythag1": 0.632,
+        "Wins": 4,
+        "Wins1": 3.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Andreas Adersteg",
+        "WinningPct": 0.571,
+        "Pythag1": 0.471,
+        "Wins": 4,
+        "Wins1": 3.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Luke Carson",
+        "WinningPct": 0.381,
+        "Pythag1": 0.36,
+        "Wins": 8,
+        "Wins1": 7.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Brandon Tippin",
+        "WinningPct": 0.364,
+        "Pythag1": 0.365,
+        "Wins": 8,
+        "Wins1": 8.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Rob Retchless",
+        "WinningPct": 0.65,
+        "Pythag1": 0.634,
+        "Wins": 13,
+        "Wins1": 12.7,
+        "Delta": 0.3000000000000007
+    },
+    {
+        "TeamName": "Eren  Oleson",
+        "WinningPct": 0.333,
+        "Pythag1": 0.365,
+        "Wins": 5,
+        "Wins1": 5.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Kyle Foster",
+        "WinningPct": 0.25,
+        "Pythag1": 0.261,
+        "Wins": 6,
+        "Wins1": 6.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Sean Hall",
+        "WinningPct": 0.571,
+        "Pythag1": 0.644,
+        "Wins": 8,
+        "Wins1": 9.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Ryo Ogihara",
+        "WinningPct": 0.5,
+        "Pythag1": 0.453,
+        "Wins": 10,
+        "Wins1": 9.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Hayato Matsumura",
+        "WinningPct": 0.6,
+        "Pythag1": 0.382,
+        "Wins": 3,
+        "Wins1": 1.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Warren Kozak",
+        "WinningPct": 0.348,
+        "Pythag1": 0.459,
+        "Wins": 8,
+        "Wins1": 10.6,
+        "Delta": -2.5999999999999996
+    },
+    {
+        "TeamName": "Joshua Friesen",
+        "WinningPct": 0.611,
+        "Pythag1": 0.51,
+        "Wins": 11,
+        "Wins1": 9.2,
+        "Delta": 1.8000000000000007
+    },
+    {
+        "TeamName": "Jeff Stewart",
+        "WinningPct": 0.667,
+        "Pythag1": 0.602,
+        "Wins": 8,
+        "Wins1": 7.2,
+        "Delta": 0.7999999999999998
+    },
+    {
+        "TeamName": "Jamie Koe",
+        "WinningPct": 0.588,
+        "Pythag1": 0.593,
+        "Wins": 10,
+        "Wins1": 10.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Pascal Michaud",
+        "WinningPct": 0.438,
+        "Pythag1": 0.474,
+        "Wins": 7,
+        "Wins1": 7.6,
+        "Delta": -0.5999999999999996
+    },
+    {
+        "TeamName": "Travis Bale",
+        "WinningPct": 0.417,
+        "Pythag1": 0.46,
+        "Wins": 5,
+        "Wins1": 5.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Andrew Gibson",
+        "WinningPct": 0.381,
+        "Pythag1": 0.325,
+        "Wins": 8,
+        "Wins1": 6.8,
+        "Delta": 1.2000000000000002
+    },
+    {
+        "TeamName": "Jason March",
+        "WinningPct": 0.467,
+        "Pythag1": 0.463,
+        "Wins": 7,
+        "Wins1": 6.9,
+        "Delta": 0.09999999999999964
+    },
+    {
+        "TeamName": "Graham McFarlane",
+        "WinningPct": 0.45,
+        "Pythag1": 0.414,
+        "Wins": 9,
+        "Wins1": 8.3,
+        "Delta": 0.6999999999999993
+    },
+    {
+        "TeamName": "Tyson Armstrong",
+        "WinningPct": 0.467,
+        "Pythag1": 0.419,
+        "Wins": 7,
+        "Wins1": 6.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Grunde Buras",
+        "WinningPct": 0.714,
+        "Pythag1": 0.488,
+        "Wins": 5,
+        "Wins1": 3.4,
+        "Delta": 1.6
+    },
+    {
+        "TeamName": "Martin Crete",
+        "WinningPct": 0.75,
+        "Pythag1": 0.74,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jamie King",
+        "WinningPct": 0.5,
+        "Pythag1": 0.475,
+        "Wins": 7,
+        "Wins1": 6.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Alexey Timofeev",
+        "WinningPct": 0.545,
+        "Pythag1": 0.517,
+        "Wins": 6,
+        "Wins1": 5.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Scott Egger",
+        "WinningPct": 0.6,
+        "Pythag1": 0.56,
+        "Wins": 6,
+        "Wins1": 5.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Ilya Shalamitski",
+        "WinningPct": 0.529,
+        "Pythag1": 0.466,
+        "Wins": 9,
+        "Wins1": 7.9,
+        "Delta": 1.0999999999999996
+    },
+    {
+        "TeamName": "Naomasa Takeda",
+        "WinningPct": 0.389,
+        "Pythag1": 0.359,
+        "Wins": 7,
+        "Wins1": 7.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Yuya Takigahira",
+        "WinningPct": 0.444,
+        "Pythag1": 0.365,
+        "Wins": 4,
+        "Wins1": 3.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Stephen Imes",
+        "WinningPct": 0.6,
+        "Pythag1": 0.64,
+        "Wins": 6,
+        "Wins1": 6.4,
+        "Delta": -0.40000000000000036
+    },
+    {
+        "TeamName": "Rylan Hartley",
+        "WinningPct": 0.333,
+        "Pythag1": 0.341,
+        "Wins": 7,
+        "Wins1": 7.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Claudio Pescia",
+        "WinningPct": 0.714,
+        "Pythag1": 0.61,
+        "Wins": 5,
+        "Wins1": 4.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Graeme Weagle",
+        "WinningPct": 0.5,
+        "Pythag1": 0.489,
+        "Wins": 8,
+        "Wins1": 7.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Scott Becker",
+        "WinningPct": 0.545,
+        "Pythag1": 0.681,
+        "Wins": 6,
+        "Wins1": 7.5,
+        "Delta": -1.5
+    },
+    {
+        "TeamName": "Suguru Tsukamoto",
+        "WinningPct": 0.583,
+        "Pythag1": 0.557,
+        "Wins": 7,
+        "Wins1": 6.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Benoit Gagne",
+        "WinningPct": 0.5,
+        "Pythag1": 0.544,
+        "Wins": 4,
+        "Wins1": 4.4,
+        "Delta": -0.40000000000000036
+    },
+    {
+        "TeamName": "Glen Jackson",
+        "WinningPct": 0.333,
+        "Pythag1": 0.288,
+        "Wins": 5,
+        "Wins1": 4.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Frederic Lawton",
+        "WinningPct": 0.4,
+        "Pythag1": 0.464,
+        "Wins": 10,
+        "Wins1": 11.6,
+        "Delta": -1.5999999999999996
+    },
+    {
+        "TeamName": "Jose Maria Hernandez Berenguer",
+        "WinningPct": 0.545,
+        "Pythag1": 0.61,
+        "Wins": 6,
+        "Wins1": 6.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Dale Kelly",
+        "WinningPct": 0.6,
+        "Pythag1": 0.531,
+        "Wins": 6,
+        "Wins1": 5.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Aleksandr Kirikov",
+        "WinningPct": 1.0,
+        "Pythag1": 0.782,
+        "Wins": 5,
+        "Wins1": 3.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Scott Comfort",
+        "WinningPct": 0.467,
+        "Pythag1": 0.549,
+        "Wins": 7,
+        "Wins1": 8.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Anders Kraupp",
+        "WinningPct": 0.6,
+        "Pythag1": 0.348,
+        "Wins": 3,
+        "Wins1": 1.7,
+        "Delta": 1.3
+    },
+    {
+        "TeamName": "Gustav Koehn",
+        "WinningPct": 0.6,
+        "Pythag1": 0.537,
+        "Wins": 3,
+        "Wins1": 2.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Anders Antonsson",
+        "WinningPct": 0.75,
+        "Pythag1": 0.48,
+        "Wins": 3,
+        "Wins1": 1.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Kevin Tym",
+        "WinningPct": 0.45,
+        "Pythag1": 0.5,
+        "Wins": 9,
+        "Wins1": 10.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Ugurcan Karagoz",
+        "WinningPct": 0.7,
+        "Pythag1": 0.576,
+        "Wins": 7,
+        "Wins1": 5.8,
+        "Delta": 1.2000000000000002
+    },
+    {
+        "TeamName": "Mikhail Vaskov",
+        "WinningPct": 0.636,
+        "Pythag1": 0.713,
+        "Wins": 7,
+        "Wins1": 7.8,
+        "Delta": -0.7999999999999998
+    },
+    {
+        "TeamName": "Gerry Savoie",
+        "WinningPct": 0.857,
+        "Pythag1": 0.677,
+        "Wins": 6,
+        "Wins1": 4.7,
+        "Delta": 1.2999999999999998
+    },
+    {
+        "TeamName": "Zsolt Kiss",
+        "WinningPct": 0.571,
+        "Pythag1": 0.513,
+        "Wins": 4,
+        "Wins1": 3.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Noe Traub",
+        "WinningPct": 0.364,
+        "Pythag1": 0.417,
+        "Wins": 8,
+        "Wins1": 9.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Jan Iseli",
+        "WinningPct": 0.333,
+        "Pythag1": 0.483,
+        "Wins": 7,
+        "Wins1": 10.1,
+        "Delta": -3.0999999999999996
+    },
+    {
+        "TeamName": "Kantaro Kawano",
+        "WinningPct": 0.4,
+        "Pythag1": 0.462,
+        "Wins": 6,
+        "Wins1": 6.9,
+        "Delta": -0.9000000000000004
+    },
+    {
+        "TeamName": "Ken Peddigrew",
+        "WinningPct": 0.368,
+        "Pythag1": 0.423,
+        "Wins": 7,
+        "Wins1": 8.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Mark Noseworthy",
+        "WinningPct": 0.5,
+        "Pythag1": 0.484,
+        "Wins": 9,
+        "Wins1": 8.7,
+        "Delta": 0.3000000000000007
+    },
+    {
+        "TeamName": "Sam Mooibroek",
+        "WinningPct": 0.3,
+        "Pythag1": 0.396,
+        "Wins": 6,
+        "Wins1": 7.9,
+        "Delta": -1.9000000000000004
+    },
+    {
+        "TeamName": "Terry Odishaw",
+        "WinningPct": 0.636,
+        "Pythag1": 0.615,
+        "Wins": 7,
+        "Wins1": 6.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Robert Kwan",
+        "WinningPct": 0.833,
+        "Pythag1": 0.652,
+        "Wins": 5,
+        "Wins1": 3.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Daymond Bernath",
+        "WinningPct": 0.5,
+        "Pythag1": 0.388,
+        "Wins": 5,
+        "Wins1": 3.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Jeff Thomas",
+        "WinningPct": 0.583,
+        "Pythag1": 0.588,
+        "Wins": 7,
+        "Wins1": 7.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Chris Medford",
+        "WinningPct": 0.5,
+        "Pythag1": 0.509,
+        "Wins": 11,
+        "Wins1": 11.2,
+        "Delta": -0.1999999999999993
+    },
+    {
+        "TeamName": "Kyle McCannell",
+        "WinningPct": 0.257,
+        "Pythag1": 0.271,
+        "Wins": 9,
+        "Wins1": 9.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Rick Rowsell",
+        "WinningPct": 0.474,
+        "Pythag1": 0.431,
+        "Wins": 9,
+        "Wins1": 8.2,
+        "Delta": 0.8000000000000007
+    },
+    {
+        "TeamName": "Andrew Reed",
+        "WinningPct": 0.217,
+        "Pythag1": 0.343,
+        "Wins": 5,
+        "Wins1": 7.9,
+        "Delta": -2.9000000000000004
+    },
+    {
+        "TeamName": "Carson Ackerman",
+        "WinningPct": 0.2,
+        "Pythag1": 0.215,
+        "Wins": 5,
+        "Wins1": 5.4,
+        "Delta": -0.40000000000000036
+    },
+    {
+        "TeamName": "Kevin Tuma",
+        "WinningPct": 0.429,
+        "Pythag1": 0.44,
+        "Wins": 6,
+        "Wins1": 6.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Jamie Birtwistle",
+        "WinningPct": 0.5,
+        "Pythag1": 0.557,
+        "Wins": 5,
+        "Wins1": 5.6,
+        "Delta": -0.5999999999999996
+    },
+    {
+        "TeamName": "Ryan Hlatkey",
+        "WinningPct": 0.462,
+        "Pythag1": 0.437,
+        "Wins": 6,
+        "Wins1": 5.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Dylan Johnston",
+        "WinningPct": 0.615,
+        "Pythag1": 0.622,
+        "Wins": 8,
+        "Wins1": 8.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Chad Dahlseide",
+        "WinningPct": 0.435,
+        "Pythag1": 0.447,
+        "Wins": 10,
+        "Wins1": 10.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Thomas Scoffin",
+        "WinningPct": 0.294,
+        "Pythag1": 0.322,
+        "Wins": 5,
+        "Wins1": 5.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Nathan Young",
+        "WinningPct": 0.5,
+        "Pythag1": 0.552,
+        "Wins": 10,
+        "Wins1": 11.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Tyler Smith",
+        "WinningPct": 0.6,
+        "Pythag1": 0.573,
+        "Wins": 9,
+        "Wins1": 8.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Sebastian Wunderer",
+        "WinningPct": 0.174,
+        "Pythag1": 0.228,
+        "Wins": 4,
+        "Wins1": 5.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Brett Henderson",
+        "WinningPct": 0.667,
+        "Pythag1": 0.67,
+        "Wins": 6,
+        "Wins1": 6.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Evan Ugland",
+        "WinningPct": 0.571,
+        "Pythag1": 0.603,
+        "Wins": 4,
+        "Wins1": 4.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Dylan Niepage",
+        "WinningPct": 0.333,
+        "Pythag1": 0.367,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Kevin Ouellette",
+        "WinningPct": 0.409,
+        "Pythag1": 0.417,
+        "Wins": 9,
+        "Wins1": 9.2,
+        "Delta": -0.1999999999999993
+    },
+    {
+        "TeamName": "Scott Hill",
+        "WinningPct": 0.455,
+        "Pythag1": 0.406,
+        "Wins": 5,
+        "Wins1": 4.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Matthew Kennerknecht",
+        "WinningPct": 0.385,
+        "Pythag1": 0.395,
+        "Wins": 5,
+        "Wins1": 5.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Jasmin Gibeau",
+        "WinningPct": 0.533,
+        "Pythag1": 0.564,
+        "Wins": 8,
+        "Wins1": 8.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Gontzal Garcia",
+        "WinningPct": 0.909,
+        "Pythag1": 0.819,
+        "Wins": 10,
+        "Wins1": 9.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Kriss Vonda",
+        "WinningPct": 0.4,
+        "Pythag1": 0.387,
+        "Wins": 4,
+        "Wins1": 3.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Guy Simard",
+        "WinningPct": 0.833,
+        "Pythag1": 0.677,
+        "Wins": 5,
+        "Wins1": 4.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Ryan Sayer",
+        "WinningPct": 0.5,
+        "Pythag1": 0.439,
+        "Wins": 10,
+        "Wins1": 8.8,
+        "Delta": 1.1999999999999993
+    },
+    {
+        "TeamName": "Jack Smeltzer",
+        "WinningPct": 0.5,
+        "Pythag1": 0.5,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Kristian Lindstroem",
+        "WinningPct": 0.6,
+        "Pythag1": 0.726,
+        "Wins": 3,
+        "Wins1": 3.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Tomoya Watanabe",
+        "WinningPct": 0.5,
+        "Pythag1": 0.393,
+        "Wins": 6,
+        "Wins1": 5.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Jon St. Denis",
+        "WinningPct": 0.75,
+        "Pythag1": 0.658,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Luca Rizzolli",
+        "WinningPct": 0.333,
+        "Pythag1": 0.369,
+        "Wins": 5,
+        "Wins1": 5.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Christian Bangerter",
+        "WinningPct": 0.316,
+        "Pythag1": 0.408,
+        "Wins": 6,
+        "Wins1": 7.8,
+        "Delta": -1.7999999999999998
+    },
+    {
+        "TeamName": "Martin Rios",
+        "WinningPct": 0.556,
+        "Pythag1": 0.524,
+        "Wins": 5,
+        "Wins1": 4.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Trevor Hanson",
+        "WinningPct": 0.45,
+        "Pythag1": 0.528,
+        "Wins": 9,
+        "Wins1": 10.6,
+        "Delta": -1.5999999999999996
+    },
+    {
+        "TeamName": "Greg Smith",
+        "WinningPct": 0.31,
+        "Pythag1": 0.373,
+        "Wins": 9,
+        "Wins1": 10.8,
+        "Delta": -1.8000000000000007
+    },
+    {
+        "TeamName": "Harri Lill",
+        "WinningPct": 0.533,
+        "Pythag1": 0.535,
+        "Wins": 8,
+        "Wins1": 8.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Craig Nicko",
+        "WinningPct": 0.3,
+        "Pythag1": 0.325,
+        "Wins": 3,
+        "Wins1": 3.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Andrew Reed",
+        "WinningPct": 0.429,
+        "Pythag1": 0.466,
+        "Wins": 6,
+        "Wins1": 6.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Randie Shen",
+        "WinningPct": 0.556,
+        "Pythag1": 0.587,
+        "Wins": 5,
+        "Wins1": 5.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Ryan Thomson",
+        "WinningPct": 0.429,
+        "Pythag1": 0.475,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Travis Tokarz",
+        "WinningPct": 0.391,
+        "Pythag1": 0.443,
+        "Wins": 9,
+        "Wins1": 10.2,
+        "Delta": -1.1999999999999993
+    },
+    {
+        "TeamName": "Rick Law",
+        "WinningPct": 0.833,
+        "Pythag1": 0.632,
+        "Wins": 5,
+        "Wins1": 3.8,
+        "Delta": 1.2000000000000002
+    },
+    {
+        "TeamName": "Yeong Seok Jeong",
+        "WinningPct": 0.667,
+        "Pythag1": 0.636,
+        "Wins": 6,
+        "Wins1": 5.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Ryan Norman",
+        "WinningPct": 0.357,
+        "Pythag1": 0.364,
+        "Wins": 5,
+        "Wins1": 5.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Eduard Veltsman",
+        "WinningPct": 0.444,
+        "Pythag1": 0.5,
+        "Wins": 4,
+        "Wins1": 4.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Kalem Hamilton",
+        "WinningPct": 0.375,
+        "Pythag1": 0.387,
+        "Wins": 9,
+        "Wins1": 9.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Richard Muntain",
+        "WinningPct": 0.5,
+        "Pythag1": 0.411,
+        "Wins": 4,
+        "Wins1": 3.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Owen Purdy",
+        "WinningPct": 0.462,
+        "Pythag1": 0.476,
+        "Wins": 6,
+        "Wins1": 6.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Hayato Sato",
+        "WinningPct": 0.5,
+        "Pythag1": 0.464,
+        "Wins": 6,
+        "Wins1": 5.6,
+        "Delta": 0.40000000000000036
+    },
+    {
+        "TeamName": "Hiroki Yoshioka",
+        "WinningPct": 0.5,
+        "Pythag1": 0.464,
+        "Wins": 7,
+        "Wins1": 6.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "HaoChen Shi",
+        "WinningPct": 0.75,
+        "Pythag1": 0.559,
+        "Wins": 3,
+        "Wins1": 2.2,
+        "Delta": 0.7999999999999998
+    },
+    {
+        "TeamName": "Darren Perche",
+        "WinningPct": 0.455,
+        "Pythag1": 0.515,
+        "Wins": 5,
+        "Wins1": 5.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Mats Wrana",
+        "WinningPct": 0.333,
+        "Pythag1": 0.278,
+        "Wins": 3,
+        "Wins1": 2.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Steve Holdaway",
+        "WinningPct": 0.188,
+        "Pythag1": 0.228,
+        "Wins": 3,
+        "Wins1": 3.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Vadim Raev",
+        "WinningPct": 0.308,
+        "Pythag1": 0.456,
+        "Wins": 4,
+        "Wins1": 5.9,
+        "Delta": -1.9000000000000004
+    },
+    {
+        "TeamName": "Andrey Dudov",
+        "WinningPct": 0.556,
+        "Pythag1": 0.5,
+        "Wins": 5,
+        "Wins1": 4.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Nicholas Lemieux",
+        "WinningPct": 0.333,
+        "Pythag1": 0.344,
+        "Wins": 8,
+        "Wins1": 8.3,
+        "Delta": -0.3000000000000007
+    },
+    {
+        "TeamName": "Rob Dennis",
+        "WinningPct": 0.375,
+        "Pythag1": 0.354,
+        "Wins": 6,
+        "Wins1": 5.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Lloyd Fell",
+        "WinningPct": 0.5,
+        "Pythag1": 0.571,
+        "Wins": 5,
+        "Wins1": 5.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Nicolas Oake",
+        "WinningPct": 0.556,
+        "Pythag1": 0.492,
+        "Wins": 5,
+        "Wins1": 4.4,
+        "Delta": 0.5999999999999996
+    },
+    {
+        "TeamName": "Dean Huerlimann",
+        "WinningPct": 0.444,
+        "Pythag1": 0.371,
+        "Wins": 4,
+        "Wins1": 3.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Kenji Takamatsu",
+        "WinningPct": 0.5,
+        "Pythag1": 0.445,
+        "Wins": 4,
+        "Wins1": 3.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Steen Sigurdson",
+        "WinningPct": 0.2,
+        "Pythag1": 0.323,
+        "Wins": 5,
+        "Wins1": 8.1,
+        "Delta": -3.0999999999999996
+    },
+    {
+        "TeamName": "Cale Dunbar",
+        "WinningPct": 0.412,
+        "Pythag1": 0.43,
+        "Wins": 7,
+        "Wins1": 7.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Alan O'Leary",
+        "WinningPct": 0.333,
+        "Pythag1": 0.377,
+        "Wins": 4,
+        "Wins1": 4.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Marti Alonso",
+        "WinningPct": 0.636,
+        "Pythag1": 0.432,
+        "Wins": 7,
+        "Wins1": 4.8,
+        "Delta": 2.2
+    },
+    {
+        "TeamName": "Callum Kinnear",
+        "WinningPct": 0.625,
+        "Pythag1": 0.64,
+        "Wins": 5,
+        "Wins1": 5.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Alex Berube",
+        "WinningPct": 0.333,
+        "Pythag1": 0.487,
+        "Wins": 4,
+        "Wins1": 5.8,
+        "Delta": -1.7999999999999998
+    },
+    {
+        "TeamName": "Francois Halle",
+        "WinningPct": 0.714,
+        "Pythag1": 0.612,
+        "Wins": 5,
+        "Wins1": 4.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Marla Sherrer",
+        "WinningPct": 0.667,
+        "Pythag1": 0.5,
+        "Wins": 2,
+        "Wins1": 1.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Gregory Bornais",
+        "WinningPct": 0.455,
+        "Pythag1": 0.354,
+        "Wins": 5,
+        "Wins1": 3.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Bernard Larouche",
+        "WinningPct": 0.667,
+        "Pythag1": 0.631,
+        "Wins": 4,
+        "Wins1": 3.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Joel Charbonneau",
+        "WinningPct": 0.667,
+        "Pythag1": 0.783,
+        "Wins": 4,
+        "Wins1": 4.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Ghislain Doyon",
+        "WinningPct": 0.8,
+        "Pythag1": 0.785,
+        "Wins": 4,
+        "Wins1": 3.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Timo Daniel",
+        "WinningPct": 0.222,
+        "Pythag1": 0.258,
+        "Wins": 4,
+        "Wins1": 4.6,
+        "Delta": -0.5999999999999996
+    },
+    {
+        "TeamName": "Ryan Larson",
+        "WinningPct": 0.667,
+        "Pythag1": 0.752,
+        "Wins": 4,
+        "Wins1": 4.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Ansis Regza",
+        "WinningPct": 0.4,
+        "Pythag1": 0.29,
+        "Wins": 2,
+        "Wins1": 1.4,
+        "Delta": 0.6000000000000001
+    },
+    {
+        "TeamName": "Edward Scimia",
+        "WinningPct": 0.333,
+        "Pythag1": 0.295,
+        "Wins": 3,
+        "Wins1": 2.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Gert Messing",
+        "WinningPct": 0.375,
+        "Pythag1": 0.556,
+        "Wins": 3,
+        "Wins1": 4.4,
+        "Delta": -1.4000000000000004
+    },
+    {
+        "TeamName": "Matt Dupuis",
+        "WinningPct": 0.417,
+        "Pythag1": 0.563,
+        "Wins": 5,
+        "Wins1": 6.8,
+        "Delta": -1.7999999999999998
+    },
+    {
+        "TeamName": "James Pougher",
+        "WinningPct": 0.571,
+        "Pythag1": 0.425,
+        "Wins": 4,
+        "Wins1": 3.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Eddy Mercier",
+        "WinningPct": 0.286,
+        "Pythag1": 0.265,
+        "Wins": 4,
+        "Wins1": 3.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Murray Young",
+        "WinningPct": 0.333,
+        "Pythag1": 0.36,
+        "Wins": 2,
+        "Wins1": 2.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Dale Goehring",
+        "WinningPct": 0.294,
+        "Pythag1": 0.467,
+        "Wins": 5,
+        "Wins1": 7.9,
+        "Delta": -2.9000000000000004
+    },
+    {
+        "TeamName": "Tye Olson",
+        "WinningPct": 0.176,
+        "Pythag1": 0.245,
+        "Wins": 3,
+        "Wins1": 4.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Sangwoo Park",
+        "WinningPct": 0.273,
+        "Pythag1": 0.335,
+        "Wins": 3,
+        "Wins1": 3.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "German Doronin",
+        "WinningPct": 0.286,
+        "Pythag1": 0.39,
+        "Wins": 4,
+        "Wins1": 5.5,
+        "Delta": -1.5
+    },
+    {
+        "TeamName": "Takimi Maeda",
+        "WinningPct": 0.5,
+        "Pythag1": 0.529,
+        "Wins": 3,
+        "Wins1": 3.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Logan Ede",
+        "WinningPct": 0.5,
+        "Pythag1": 0.507,
+        "Wins": 6,
+        "Wins1": 6.1,
+        "Delta": -0.09999999999999964
+    },
+    {
+        "TeamName": "Kei Kamada",
+        "WinningPct": 0.25,
+        "Pythag1": 0.236,
+        "Wins": 3,
+        "Wins1": 2.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Dustin Woloschuk",
+        "WinningPct": 0.4,
+        "Pythag1": 0.379,
+        "Wins": 6,
+        "Wins1": 5.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Paul Moffatt",
+        "WinningPct": 0.5,
+        "Pythag1": 0.353,
+        "Wins": 4,
+        "Wins1": 2.8,
+        "Delta": 1.2000000000000002
+    },
+    {
+        "TeamName": "Ryutaro Tani",
+        "WinningPct": 0.375,
+        "Pythag1": 0.401,
+        "Wins": 3,
+        "Wins1": 3.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Johnson Tao",
+        "WinningPct": 0.444,
+        "Pythag1": 0.406,
+        "Wins": 4,
+        "Wins1": 3.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Shawn Meyer",
+        "WinningPct": 0.368,
+        "Pythag1": 0.51,
+        "Wins": 7,
+        "Wins1": 9.7,
+        "Delta": -2.6999999999999993
+    },
+    {
+        "TeamName": "Takuya Ishikawa",
+        "WinningPct": 0.571,
+        "Pythag1": 0.5,
+        "Wins": 4,
+        "Wins1": 3.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Ray Baker",
+        "WinningPct": 0.5,
+        "Pythag1": 0.404,
+        "Wins": 3,
+        "Wins1": 2.4,
+        "Delta": 0.6000000000000001
+    },
+    {
+        "TeamName": "Alberto Pimpini",
+        "WinningPct": 0.429,
+        "Pythag1": 0.4,
+        "Wins": 3,
+        "Wins1": 2.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Simon Ellenberger",
+        "WinningPct": 0.429,
+        "Pythag1": 0.367,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Felix Attinger",
+        "WinningPct": 0.5,
+        "Pythag1": 0.5,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Nassar Alyafei",
+        "WinningPct": 0.333,
+        "Pythag1": 0.179,
+        "Wins": 3,
+        "Wins1": 1.6,
+        "Delta": 1.4
+    },
+    {
+        "TeamName": "Dean North",
+        "WinningPct": 0.5,
+        "Pythag1": 0.5,
+        "Wins": 2,
+        "Wins1": 2.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Denis Cordick",
+        "WinningPct": 0.2,
+        "Pythag1": 0.302,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Grant Olsen",
+        "WinningPct": 0.3,
+        "Pythag1": 0.258,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Ryan Cain",
+        "WinningPct": 0.333,
+        "Pythag1": 0.388,
+        "Wins": 4,
+        "Wins1": 4.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Damien Villard",
+        "WinningPct": 0.375,
+        "Pythag1": 0.376,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jeff Brown",
+        "WinningPct": 0.462,
+        "Pythag1": 0.394,
+        "Wins": 6,
+        "Wins1": 5.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Timothy Verreycken",
+        "WinningPct": 0.556,
+        "Pythag1": 0.637,
+        "Wins": 5,
+        "Wins1": 5.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Konstantin Rykov",
+        "WinningPct": 0.333,
+        "Pythag1": 0.431,
+        "Wins": 4,
+        "Wins1": 5.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Otto Kalocsay",
+        "WinningPct": 0.333,
+        "Pythag1": 0.362,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Matt Sussman",
+        "WinningPct": 0.4,
+        "Pythag1": 0.2,
+        "Wins": 2,
+        "Wins1": 1.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Mark Dolsen",
+        "WinningPct": 0.5,
+        "Pythag1": 0.552,
+        "Wins": 2,
+        "Wins1": 2.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Matthew Neilson",
+        "WinningPct": 0.333,
+        "Pythag1": 0.322,
+        "Wins": 3,
+        "Wins1": 2.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Kent  Zuravloff",
+        "WinningPct": 0.5,
+        "Pythag1": 0.557,
+        "Wins": 7,
+        "Wins1": 7.8,
+        "Delta": -0.7999999999999998
+    },
+    {
+        "TeamName": "Benj Guzman",
+        "WinningPct": 0.4,
+        "Pythag1": 0.439,
+        "Wins": 2,
+        "Wins1": 2.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Llorenc Aparicio",
+        "WinningPct": 0.556,
+        "Pythag1": 0.445,
+        "Wins": 5,
+        "Wins1": 4.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Mike Callaghan",
+        "WinningPct": 0.286,
+        "Pythag1": 0.375,
+        "Wins": 4,
+        "Wins1": 5.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Peng Han",
+        "WinningPct": 0.25,
+        "Pythag1": 0.311,
+        "Wins": 3,
+        "Wins1": 3.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Nathan Molberg",
+        "WinningPct": 0.444,
+        "Pythag1": 0.53,
+        "Wins": 4,
+        "Wins1": 4.8,
+        "Delta": -0.7999999999999998
+    },
+    {
+        "TeamName": "Charlie Robert",
+        "WinningPct": 0.385,
+        "Pythag1": 0.399,
+        "Wins": 5,
+        "Wins1": 5.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Kevin Kakela",
+        "WinningPct": 0.333,
+        "Pythag1": 0.2,
+        "Wins": 3,
+        "Wins1": 1.8,
+        "Delta": 1.2
+    },
+    {
+        "TeamName": "Shea Steele",
+        "WinningPct": 0.188,
+        "Pythag1": 0.28,
+        "Wins": 3,
+        "Wins1": 4.5,
+        "Delta": -1.5
+    },
+    {
+        "TeamName": "Bent Anund Ramsfjell",
+        "WinningPct": 0.6,
+        "Pythag1": 0.614,
+        "Wins": 3,
+        "Wins1": 3.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Ryan Grabarczyk",
+        "WinningPct": 0.429,
+        "Pythag1": 0.432,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Graham Freeman",
+        "WinningPct": 0.5,
+        "Pythag1": 0.487,
+        "Wins": 3,
+        "Wins1": 2.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Greg Cheal",
+        "WinningPct": 0.312,
+        "Pythag1": 0.393,
+        "Wins": 5,
+        "Wins1": 6.3,
+        "Delta": -1.2999999999999998
+    },
+    {
+        "TeamName": "Trevor Funk",
+        "WinningPct": 0.444,
+        "Pythag1": 0.441,
+        "Wins": 4,
+        "Wins1": 4.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jay Kinnaird",
+        "WinningPct": 0.375,
+        "Pythag1": 0.25,
+        "Wins": 3,
+        "Wins1": 2.0,
+        "Delta": 1.0
+    },
+    {
+        "TeamName": "Keisaku Takada",
+        "WinningPct": 0.333,
+        "Pythag1": 0.141,
+        "Wins": 3,
+        "Wins1": 1.3,
+        "Delta": 1.7
+    },
+    {
+        "TeamName": "Reto Keller",
+        "WinningPct": 0.4,
+        "Pythag1": 0.417,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Nathen Pomedli",
+        "WinningPct": 0.273,
+        "Pythag1": 0.311,
+        "Wins": 3,
+        "Wins1": 3.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Abylay Zhuzbay",
+        "WinningPct": 0.222,
+        "Pythag1": 0.3,
+        "Wins": 2,
+        "Wins1": 2.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Garry Janz",
+        "WinningPct": 0.4,
+        "Pythag1": 0.413,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Cody Sutherland",
+        "WinningPct": 0.214,
+        "Pythag1": 0.296,
+        "Wins": 3,
+        "Wins1": 4.1,
+        "Delta": -1.0999999999999996
+    },
+    {
+        "TeamName": "Randy Neufeld",
+        "WinningPct": 0.5,
+        "Pythag1": 0.605,
+        "Wins": 2,
+        "Wins1": 2.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Alexandre Leduc",
+        "WinningPct": 0.429,
+        "Pythag1": 0.46,
+        "Wins": 3,
+        "Wins1": 3.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Jiahong Ma",
+        "WinningPct": 0.273,
+        "Pythag1": 0.42,
+        "Wins": 3,
+        "Wins1": 4.6,
+        "Delta": -1.5999999999999996
+    },
+    {
+        "TeamName": "Gert Precenth",
+        "WinningPct": 0.4,
+        "Pythag1": 0.5,
+        "Wins": 2,
+        "Wins1": 2.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Viktor Gustafsson",
+        "WinningPct": 0.4,
+        "Pythag1": 0.265,
+        "Wins": 2,
+        "Wins1": 1.3,
+        "Delta": 0.7
+    },
+    {
+        "TeamName": "Tony Poelder",
+        "WinningPct": 0.4,
+        "Pythag1": 0.518,
+        "Wins": 2,
+        "Wins1": 2.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Reto Seiler",
+        "WinningPct": 0.286,
+        "Pythag1": 0.338,
+        "Wins": 2,
+        "Wins1": 2.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Pavol Pitonak",
+        "WinningPct": 0.222,
+        "Pythag1": 0.391,
+        "Wins": 2,
+        "Wins1": 3.5,
+        "Delta": -1.5
+    },
+    {
+        "TeamName": "Ramy Cohen",
+        "WinningPct": 0.5,
+        "Pythag1": 0.394,
+        "Wins": 2,
+        "Wins1": 1.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Cameron McNay",
+        "WinningPct": 0.143,
+        "Pythag1": 0.2,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Giacomo Colli",
+        "WinningPct": 0.222,
+        "Pythag1": 0.336,
+        "Wins": 2,
+        "Wins1": 3.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Aleksandr Bystrov",
+        "WinningPct": 0.429,
+        "Pythag1": 0.458,
+        "Wins": 3,
+        "Wins1": 3.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Robert Wright",
+        "WinningPct": 0.286,
+        "Pythag1": 0.281,
+        "Wins": 2,
+        "Wins1": 2.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Thomas Freitag",
+        "WinningPct": 0.429,
+        "Pythag1": 0.372,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Travis Belchior",
+        "WinningPct": 0.25,
+        "Pythag1": 0.333,
+        "Wins": 2,
+        "Wins1": 2.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Steve Wright",
+        "WinningPct": 0.5,
+        "Pythag1": 0.343,
+        "Wins": 2,
+        "Wins1": 1.4,
+        "Delta": 0.6000000000000001
+    },
+    {
+        "TeamName": "Kurt Balderston",
+        "WinningPct": 0.333,
+        "Pythag1": 0.406,
+        "Wins": 3,
+        "Wins1": 3.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Xavier Campos",
+        "WinningPct": 0.333,
+        "Pythag1": 0.302,
+        "Wins": 3,
+        "Wins1": 2.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Angel Garcia A.",
+        "WinningPct": 0.333,
+        "Pythag1": 0.368,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Maximo Calvo",
+        "WinningPct": 0.333,
+        "Pythag1": 0.364,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Sawer Kaeser",
+        "WinningPct": 0.222,
+        "Pythag1": 0.228,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Drew Heidt",
+        "WinningPct": 0.571,
+        "Pythag1": 0.5,
+        "Wins": 4,
+        "Wins1": 3.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Jerome Adam",
+        "WinningPct": 0.333,
+        "Pythag1": 0.233,
+        "Wins": 3,
+        "Wins1": 2.1,
+        "Delta": 0.8999999999999999
+    },
+    {
+        "TeamName": "Yoshiaki Sakaguchi",
+        "WinningPct": 0.429,
+        "Pythag1": 0.664,
+        "Wins": 3,
+        "Wins1": 5.3,
+        "Delta": -2.3
+    },
+    {
+        "TeamName": "Eirik Oy",
+        "WinningPct": 0.4,
+        "Pythag1": 0.341,
+        "Wins": 2,
+        "Wins1": 1.7,
+        "Delta": 0.30000000000000004
+    },
+    {
+        "TeamName": "Mathias Braenden",
+        "WinningPct": 0.4,
+        "Pythag1": 0.579,
+        "Wins": 2,
+        "Wins1": 2.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "Mitchell Katcher",
+        "WinningPct": 0.286,
+        "Pythag1": 0.318,
+        "Wins": 2,
+        "Wins1": 2.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Nick Myers",
+        "WinningPct": 0.5,
+        "Pythag1": 0.546,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Nicholas Connolly",
+        "WinningPct": 0.429,
+        "Pythag1": 0.415,
+        "Wins": 3,
+        "Wins1": 2.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Erik Jensen",
+        "WinningPct": 0.333,
+        "Pythag1": 0.482,
+        "Wins": 3,
+        "Wins1": 4.3,
+        "Delta": -1.2999999999999998
+    },
+    {
+        "TeamName": "Rick Phillips",
+        "WinningPct": 0.5,
+        "Pythag1": 0.43,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Nando Salviulo",
+        "WinningPct": 0.333,
+        "Pythag1": 0.262,
+        "Wins": 2,
+        "Wins1": 1.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Regis Bosse",
+        "WinningPct": 0.5,
+        "Pythag1": 0.469,
+        "Wins": 3,
+        "Wins1": 2.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Andrew Wickman",
+        "WinningPct": 0.5,
+        "Pythag1": 0.563,
+        "Wins": 2,
+        "Wins1": 2.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Bill Turner",
+        "WinningPct": 0.571,
+        "Pythag1": 0.468,
+        "Wins": 4,
+        "Wins1": 3.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Ross LaVallee",
+        "WinningPct": 0.167,
+        "Pythag1": 0.167,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jeff Ginter",
+        "WinningPct": 0.583,
+        "Pythag1": 0.62,
+        "Wins": 7,
+        "Wins1": 7.4,
+        "Delta": -0.40000000000000036
+    },
+    {
+        "TeamName": "Phil Gorveatt",
+        "WinningPct": 0.625,
+        "Pythag1": 0.542,
+        "Wins": 5,
+        "Wins1": 4.3,
+        "Delta": 0.7000000000000002
+    },
+    {
+        "TeamName": "Allan Gitzel",
+        "WinningPct": 0.5,
+        "Pythag1": 0.516,
+        "Wins": 3,
+        "Wins1": 3.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Garion Long",
+        "WinningPct": 0.25,
+        "Pythag1": 0.131,
+        "Wins": 1,
+        "Wins1": 0.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Sylvain Bellavance",
+        "WinningPct": 0.375,
+        "Pythag1": 0.448,
+        "Wins": 3,
+        "Wins1": 3.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Jaroslav Vedral",
+        "WinningPct": 0.5,
+        "Pythag1": 0.594,
+        "Wins": 2,
+        "Wins1": 2.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Aaron Thompson",
+        "WinningPct": 0.375,
+        "Pythag1": 0.296,
+        "Wins": 3,
+        "Wins1": 2.4,
+        "Delta": 0.6000000000000001
+    },
+    {
+        "TeamName": "Neil Gallant",
+        "WinningPct": 0.167,
+        "Pythag1": 0.248,
+        "Wins": 2,
+        "Wins1": 3.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Nicholas Servant",
+        "WinningPct": 0.5,
+        "Pythag1": 0.307,
+        "Wins": 2,
+        "Wins1": 1.2,
+        "Delta": 0.8
+    },
+    {
+        "TeamName": "Ken Robichaud",
+        "WinningPct": 0.5,
+        "Pythag1": 0.439,
+        "Wins": 2,
+        "Wins1": 1.8,
+        "Delta": 0.19999999999999996
+    },
+    {
+        "TeamName": "Benjamin Randall",
+        "WinningPct": 0.429,
+        "Pythag1": 0.467,
+        "Wins": 3,
+        "Wins1": 3.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Daniel Casper",
+        "WinningPct": 0.429,
+        "Pythag1": 0.39,
+        "Wins": 3,
+        "Wins1": 2.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Shun Tanaka",
+        "WinningPct": 0.6,
+        "Pythag1": 0.605,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Shaun Parsons",
+        "WinningPct": 0.5,
+        "Pythag1": 0.478,
+        "Wins": 2,
+        "Wins1": 1.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Mitchell Schut",
+        "WinningPct": 0.571,
+        "Pythag1": 0.552,
+        "Wins": 4,
+        "Wins1": 3.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Eddie MacKenzie",
+        "WinningPct": 0.571,
+        "Pythag1": 0.578,
+        "Wins": 4,
+        "Wins1": 4.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jacob Reid",
+        "WinningPct": 0.286,
+        "Pythag1": 0.436,
+        "Wins": 2,
+        "Wins1": 3.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Jacob Holder",
+        "WinningPct": 0.429,
+        "Pythag1": 0.423,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Orrin Carson",
+        "WinningPct": 0.429,
+        "Pythag1": 0.454,
+        "Wins": 3,
+        "Wins1": 3.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Carter Babij",
+        "WinningPct": 0.286,
+        "Pythag1": 0.41,
+        "Wins": 2,
+        "Wins1": 2.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "Kotaro Noguchi",
+        "WinningPct": 0.125,
+        "Pythag1": 0.18,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Martin Patry",
+        "WinningPct": 0.2,
+        "Pythag1": 0.291,
+        "Wins": 2,
+        "Wins1": 2.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "Marc Strasser",
+        "WinningPct": 0.2,
+        "Pythag1": 0.1,
+        "Wins": 1,
+        "Wins1": 0.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Stefan Signer",
+        "WinningPct": 0.2,
+        "Pythag1": 0.29,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Brett Behm",
+        "WinningPct": 0.286,
+        "Pythag1": 0.311,
+        "Wins": 2,
+        "Wins1": 2.2,
+        "Delta": -0.20000000000000018
+    },
+    {
+        "TeamName": "Jason Chang",
+        "WinningPct": 0.111,
+        "Pythag1": 0.193,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Guy Charette",
+        "WinningPct": 0.333,
+        "Pythag1": 0.284,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Ryan Spielman",
+        "WinningPct": 0.4,
+        "Pythag1": 0.465,
+        "Wins": 2,
+        "Wins1": 2.3,
+        "Delta": -0.2999999999999998
+    },
+    {
+        "TeamName": "Jamie Cochrane",
+        "WinningPct": 0.4,
+        "Pythag1": 0.516,
+        "Wins": 2,
+        "Wins1": 2.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Daiki Shikano",
+        "WinningPct": 0.25,
+        "Pythag1": 0.175,
+        "Wins": 1,
+        "Wins1": 0.7,
+        "Delta": 0.30000000000000004
+    },
+    {
+        "TeamName": "Mathieu Gravel",
+        "WinningPct": 0.4,
+        "Pythag1": 0.307,
+        "Wins": 2,
+        "Wins1": 1.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Paulo Bienvenue",
+        "WinningPct": 0.333,
+        "Pythag1": 0.158,
+        "Wins": 2,
+        "Wins1": 0.9,
+        "Delta": 1.1
+    },
+    {
+        "TeamName": "Carter Bryant",
+        "WinningPct": 0.25,
+        "Pythag1": 0.175,
+        "Wins": 1,
+        "Wins1": 0.7,
+        "Delta": 0.30000000000000004
+    },
+    {
+        "TeamName": "Nicholas Bissonnette",
+        "WinningPct": 0.25,
+        "Pythag1": 0.231,
+        "Wins": 1,
+        "Wins1": 0.9,
+        "Delta": 0.09999999999999998
+    },
+    {
+        "TeamName": "Dayne Gagnon",
+        "WinningPct": 0.333,
+        "Pythag1": 0.332,
+        "Wins": 3,
+        "Wins1": 3.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jared Palanuik",
+        "WinningPct": 0.25,
+        "Pythag1": 0.386,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Johan Engqvist",
+        "WinningPct": 0.25,
+        "Pythag1": 0.405,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Niclas Perem",
+        "WinningPct": 0.25,
+        "Pythag1": 0.52,
+        "Wins": 1,
+        "Wins1": 2.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Kirill Surovov",
+        "WinningPct": 0.286,
+        "Pythag1": 0.237,
+        "Wins": 2,
+        "Wins1": 1.7,
+        "Delta": 0.30000000000000004
+    },
+    {
+        "TeamName": "Alex Pokras",
+        "WinningPct": 0.125,
+        "Pythag1": 0.284,
+        "Wins": 1,
+        "Wins1": 2.3,
+        "Delta": -1.2999999999999998
+    },
+    {
+        "TeamName": "Mike Farbelow",
+        "WinningPct": 0.25,
+        "Pythag1": 0.117,
+        "Wins": 1,
+        "Wins1": 0.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Eirik Oey",
+        "WinningPct": 0.111,
+        "Pythag1": 0.285,
+        "Wins": 1,
+        "Wins1": 2.6,
+        "Delta": -1.6
+    },
+    {
+        "TeamName": "Brad Wainikka",
+        "WinningPct": 0.333,
+        "Pythag1": 0.374,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Corey Anderson",
+        "WinningPct": 0.2,
+        "Pythag1": 0.333,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Jesse McCullough",
+        "WinningPct": 0.25,
+        "Pythag1": 0.326,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "William Kuran",
+        "WinningPct": 0.25,
+        "Pythag1": 0.334,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "Jim Wilson",
+        "WinningPct": 0.25,
+        "Pythag1": 0.39,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Nik Geller",
+        "WinningPct": 0.125,
+        "Pythag1": 0.097,
+        "Wins": 1,
+        "Wins1": 0.8,
+        "Delta": 0.19999999999999996
+    },
+    {
+        "TeamName": "Daniel Vanveghel",
+        "WinningPct": 0.25,
+        "Pythag1": 0.316,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "Wesley Wendling",
+        "WinningPct": 0.286,
+        "Pythag1": 0.386,
+        "Wins": 2,
+        "Wins1": 2.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Daniel Murray",
+        "WinningPct": 0.286,
+        "Pythag1": 0.395,
+        "Wins": 2,
+        "Wins1": 2.8,
+        "Delta": -0.7999999999999998
+    },
+    {
+        "TeamName": "Tyler Marshall",
+        "WinningPct": 0.25,
+        "Pythag1": 0.36,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Anthony Neufeld",
+        "WinningPct": 0.4,
+        "Pythag1": 0.426,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Liam Marin",
+        "WinningPct": 0.111,
+        "Pythag1": 0.403,
+        "Wins": 1,
+        "Wins1": 3.6,
+        "Delta": -2.6
+    },
+    {
+        "TeamName": "Hiromitsu Kuriyama",
+        "WinningPct": 0.333,
+        "Pythag1": 0.393,
+        "Wins": 2,
+        "Wins1": 2.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Ken Kanai",
+        "WinningPct": 0.4,
+        "Pythag1": 0.521,
+        "Wins": 2,
+        "Wins1": 2.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Rune Steen Hansen",
+        "WinningPct": 0.333,
+        "Pythag1": 0.215,
+        "Wins": 1,
+        "Wins1": 0.6,
+        "Delta": 0.4
+    },
+    {
+        "TeamName": "Tobias Linneberg",
+        "WinningPct": 0.333,
+        "Pythag1": 0.455,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Vidar Hansen",
+        "WinningPct": 0.333,
+        "Pythag1": 0.2,
+        "Wins": 1,
+        "Wins1": 0.6,
+        "Delta": 0.4
+    },
+    {
+        "TeamName": "Ingebrigt Bjornstad",
+        "WinningPct": 0.333,
+        "Pythag1": 0.585,
+        "Wins": 1,
+        "Wins1": 1.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Johan Hostmaelingen",
+        "WinningPct": 0.333,
+        "Pythag1": 0.5,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "John Wilson",
+        "WinningPct": 0.333,
+        "Pythag1": 0.277,
+        "Wins": 1,
+        "Wins1": 0.8,
+        "Delta": 0.19999999999999996
+    },
+    {
+        "TeamName": "Aleksandr Burdakov",
+        "WinningPct": 0.5,
+        "Pythag1": 0.353,
+        "Wins": 2,
+        "Wins1": 1.4,
+        "Delta": 0.6000000000000001
+    },
+    {
+        "TeamName": "Maksim Shibilkin",
+        "WinningPct": 0.5,
+        "Pythag1": 0.53,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Artem Karetnikov",
+        "WinningPct": 0.5,
+        "Pythag1": 0.523,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Paul Scinocca",
+        "WinningPct": 0.2,
+        "Pythag1": 0.193,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Patrick Martin",
+        "WinningPct": 0.4,
+        "Pythag1": 0.414,
+        "Wins": 2,
+        "Wins1": 2.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Stephane Brabant",
+        "WinningPct": 0.4,
+        "Pythag1": 0.517,
+        "Wins": 2,
+        "Wins1": 2.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Wayne Ewasko",
+        "WinningPct": 0.333,
+        "Pythag1": 0.326,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Pierre Blanchard",
+        "WinningPct": 0.4,
+        "Pythag1": 0.554,
+        "Wins": 2,
+        "Wins1": 2.8,
+        "Delta": -0.7999999999999998
+    },
+    {
+        "TeamName": "Neil Power",
+        "WinningPct": 0.4,
+        "Pythag1": 0.3,
+        "Wins": 2,
+        "Wins1": 1.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Dave Sullivan",
+        "WinningPct": 0.25,
+        "Pythag1": 0.524,
+        "Wins": 1,
+        "Wins1": 2.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Tom Mulhern",
+        "WinningPct": 0.5,
+        "Pythag1": 0.29,
+        "Wins": 2,
+        "Wins1": 1.2,
+        "Delta": 0.8
+    },
+    {
+        "TeamName": "Gabor Bor Zelinka",
+        "WinningPct": 0.2,
+        "Pythag1": 0.218,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Karel Klima",
+        "WinningPct": 0.25,
+        "Pythag1": 0.254,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Brecklin Gervais",
+        "WinningPct": 0.25,
+        "Pythag1": 0.38,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Glen Warnica",
+        "WinningPct": 0.333,
+        "Pythag1": 0.369,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Craig Van Ymeren",
+        "WinningPct": 0.333,
+        "Pythag1": 0.434,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "Dave Lawes",
+        "WinningPct": 0.333,
+        "Pythag1": 0.5,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Michael Shepherd",
+        "WinningPct": 0.333,
+        "Pythag1": 0.36,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Brent Franko",
+        "WinningPct": 0.25,
+        "Pythag1": 0.186,
+        "Wins": 1,
+        "Wins1": 0.7,
+        "Delta": 0.30000000000000004
+    },
+    {
+        "TeamName": "Garret Fedak",
+        "WinningPct": 0.333,
+        "Pythag1": 0.53,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Raphael Patry",
+        "WinningPct": 0.333,
+        "Pythag1": 0.391,
+        "Wins": 1,
+        "Wins1": 1.2,
+        "Delta": -0.19999999999999996
+    },
+    {
+        "TeamName": "Pengpeng Cao",
+        "WinningPct": 0.167,
+        "Pythag1": 0.324,
+        "Wins": 1,
+        "Wins1": 1.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "Andrew Manson",
+        "WinningPct": 0.333,
+        "Pythag1": 0.319,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Branden Cookson",
+        "WinningPct": 0.111,
+        "Pythag1": 0.173,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Gord Cherry",
+        "WinningPct": 0.333,
+        "Pythag1": 0.5,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Steven van Ouwerkerk",
+        "WinningPct": 0.4,
+        "Pythag1": 0.255,
+        "Wins": 2,
+        "Wins1": 1.3,
+        "Delta": 0.7
+    },
+    {
+        "TeamName": "Jamie Newson",
+        "WinningPct": 0.4,
+        "Pythag1": 0.542,
+        "Wins": 2,
+        "Wins1": 2.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Rod MacDonald",
+        "WinningPct": 0.4,
+        "Pythag1": 0.36,
+        "Wins": 2,
+        "Wins1": 1.8,
+        "Delta": 0.19999999999999996
+    },
+    {
+        "TeamName": "John Likely",
+        "WinningPct": 0.4,
+        "Pythag1": 0.621,
+        "Wins": 2,
+        "Wins1": 3.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Sandro Fanchini",
+        "WinningPct": 0.143,
+        "Pythag1": 0.223,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Jannis Bannwart",
+        "WinningPct": 0.143,
+        "Pythag1": 0.231,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Raul Garcia G.",
+        "WinningPct": 0.111,
+        "Pythag1": 0.249,
+        "Wins": 1,
+        "Wins1": 2.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Ignacio Galdeano",
+        "WinningPct": 0.111,
+        "Pythag1": 0.172,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Brayden Payette",
+        "WinningPct": 0.25,
+        "Pythag1": 0.117,
+        "Wins": 1,
+        "Wins1": 0.5,
+        "Delta": 0.5
+    },
+    {
+        "TeamName": "Karlis Smilga",
+        "WinningPct": 0.222,
+        "Pythag1": 0.295,
+        "Wins": 2,
+        "Wins1": 2.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Ritvars Gulbis",
+        "WinningPct": 0.4,
+        "Pythag1": 0.374,
+        "Wins": 2,
+        "Wins1": 1.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Oleg Krasikov",
+        "WinningPct": 0.222,
+        "Pythag1": 0.41,
+        "Wins": 2,
+        "Wins1": 3.7,
+        "Delta": -1.7000000000000002
+    },
+    {
+        "TeamName": "Jason LaMontagne",
+        "WinningPct": 0.25,
+        "Pythag1": 0.284,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Andy Lloyd",
+        "WinningPct": 0.333,
+        "Pythag1": 0.559,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Harrison Boss",
+        "WinningPct": 0.25,
+        "Pythag1": 0.29,
+        "Wins": 1,
+        "Wins1": 1.2,
+        "Delta": -0.19999999999999996
+    },
+    {
+        "TeamName": "Camil Palin",
+        "WinningPct": 0.25,
+        "Pythag1": 0.239,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Maxime Mailloux",
+        "WinningPct": 0.25,
+        "Pythag1": 0.275,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Jean-Christophe Pichon",
+        "WinningPct": 0.25,
+        "Pythag1": 0.401,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Jacques Dufresne",
+        "WinningPct": 0.25,
+        "Pythag1": 0.308,
+        "Wins": 1,
+        "Wins1": 1.2,
+        "Delta": -0.19999999999999996
+    },
+    {
+        "TeamName": "Bruno Crepeault",
+        "WinningPct": 0.25,
+        "Pythag1": 0.427,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Mike Flannery",
+        "WinningPct": 0.25,
+        "Pythag1": 0.316,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "Wayne Tallon",
+        "WinningPct": 0.25,
+        "Pythag1": 0.41,
+        "Wins": 1,
+        "Wins1": 1.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Tomasz Bosek",
+        "WinningPct": 0.25,
+        "Pythag1": 0.236,
+        "Wins": 1,
+        "Wins1": 0.9,
+        "Delta": 0.09999999999999998
+    },
+    {
+        "TeamName": "Glen MacLeod",
+        "WinningPct": 0.25,
+        "Pythag1": 0.421,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Jin-wook Lee",
+        "WinningPct": 0.2,
+        "Pythag1": 0.155,
+        "Wins": 1,
+        "Wins1": 0.8,
+        "Delta": 0.19999999999999996
+    },
+    {
+        "TeamName": "JaeBeom Lee",
+        "WinningPct": 0.2,
+        "Pythag1": 0.445,
+        "Wins": 1,
+        "Wins1": 2.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Harold Walters",
+        "WinningPct": 0.25,
+        "Pythag1": 0.236,
+        "Wins": 1,
+        "Wins1": 0.9,
+        "Delta": 0.09999999999999998
+    },
+    {
+        "TeamName": "Evan McDonah",
+        "WinningPct": 0.25,
+        "Pythag1": 0.246,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Rod Feltham",
+        "WinningPct": 0.25,
+        "Pythag1": 0.45,
+        "Wins": 1,
+        "Wins1": 1.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Justin Hewitt",
+        "WinningPct": 0.25,
+        "Pythag1": 0.138,
+        "Wins": 1,
+        "Wins1": 0.6,
+        "Delta": 0.4
+    },
+    {
+        "TeamName": "Butch Mouck",
+        "WinningPct": 0.6,
+        "Pythag1": 0.533,
+        "Wins": 3,
+        "Wins1": 2.7,
+        "Delta": 0.2999999999999998
+    },
+    {
+        "TeamName": "Shane Gordon",
+        "WinningPct": 0.429,
+        "Pythag1": 0.4,
+        "Wins": 3,
+        "Wins1": 2.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Coleman Thurston",
+        "WinningPct": 0.143,
+        "Pythag1": 0.319,
+        "Wins": 1,
+        "Wins1": 2.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Lawrence Corrigal",
+        "WinningPct": 0.25,
+        "Pythag1": 0.276,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Corey Leach",
+        "WinningPct": 0.25,
+        "Pythag1": 0.5,
+        "Wins": 1,
+        "Wins1": 2.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Ryo Wakabayashi",
+        "WinningPct": 0.2,
+        "Pythag1": 0.287,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Kevin Wunderlin",
+        "WinningPct": 0.333,
+        "Pythag1": 0.36,
+        "Wins": 1,
+        "Wins1": 1.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "Stuart Brand",
+        "WinningPct": 0.333,
+        "Pythag1": 0.552,
+        "Wins": 2,
+        "Wins1": 3.3,
+        "Delta": -1.2999999999999998
+    },
+    {
+        "TeamName": "Michel Lachance",
+        "WinningPct": 0.25,
+        "Pythag1": 0.29,
+        "Wins": 1,
+        "Wins1": 1.2,
+        "Delta": -0.19999999999999996
+    },
+    {
+        "TeamName": "Owen Rees",
+        "WinningPct": 0.333,
+        "Pythag1": 0.2,
+        "Wins": 2,
+        "Wins1": 1.2,
+        "Delta": 0.8
+    },
+    {
+        "TeamName": "Ross Craik",
+        "WinningPct": 0.143,
+        "Pythag1": 0.312,
+        "Wins": 1,
+        "Wins1": 2.2,
+        "Delta": -1.2000000000000002
+    },
+    {
+        "TeamName": "Tomoji Arai",
+        "WinningPct": 0.125,
+        "Pythag1": 0.211,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Darrel Veiner",
+        "WinningPct": 0.364,
+        "Pythag1": 0.408,
+        "Wins": 4,
+        "Wins1": 4.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Colin Griffith",
+        "WinningPct": 0.375,
+        "Pythag1": 0.453,
+        "Wins": 3,
+        "Wins1": 3.6,
+        "Delta": -0.6000000000000001
+    },
+    {
+        "TeamName": "Nick Lane",
+        "WinningPct": 0.25,
+        "Pythag1": 0.366,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Scott Strouse",
+        "WinningPct": 0.333,
+        "Pythag1": 0.39,
+        "Wins": 1,
+        "Wins1": 1.2,
+        "Delta": -0.19999999999999996
+    },
+    {
+        "TeamName": "Michael Glessner",
+        "WinningPct": 0.333,
+        "Pythag1": 0.5,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Mark Mooney",
+        "WinningPct": 0.333,
+        "Pythag1": 0.242,
+        "Wins": 1,
+        "Wins1": 0.7,
+        "Delta": 0.30000000000000004
+    },
+    {
+        "TeamName": "Barry Klein",
+        "WinningPct": 0.25,
+        "Pythag1": 0.221,
+        "Wins": 1,
+        "Wins1": 0.9,
+        "Delta": 0.09999999999999998
+    },
+    {
+        "TeamName": "Cedar Kennedy",
+        "WinningPct": 0.333,
+        "Pythag1": 0.187,
+        "Wins": 1,
+        "Wins1": 0.6,
+        "Delta": 0.4
+    },
+    {
+        "TeamName": "Dave Konefal",
+        "WinningPct": 0.25,
+        "Pythag1": 0.382,
+        "Wins": 1,
+        "Wins1": 1.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Zack Eldridge",
+        "WinningPct": 0.25,
+        "Pythag1": 0.342,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Shawn Blair",
+        "WinningPct": 0.167,
+        "Pythag1": 0.225,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Philip MacDonald",
+        "WinningPct": 0.25,
+        "Pythag1": 0.5,
+        "Wins": 1,
+        "Wins1": 2.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Darren Higgins",
+        "WinningPct": 0.25,
+        "Pythag1": 0.321,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "Clint Cudmore",
+        "WinningPct": 0.333,
+        "Pythag1": 0.445,
+        "Wins": 2,
+        "Wins1": 2.7,
+        "Delta": -0.7000000000000002
+    },
+    {
+        "TeamName": "Janis Rudzitis",
+        "WinningPct": 0.2,
+        "Pythag1": 0.387,
+        "Wins": 1,
+        "Wins1": 1.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "Rob Van Kommer",
+        "WinningPct": 0.333,
+        "Pythag1": 0.321,
+        "Wins": 1,
+        "Wins1": 1.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Matt Mann",
+        "WinningPct": 0.167,
+        "Pythag1": 0.34,
+        "Wins": 1,
+        "Wins1": 2.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Greg Todoruk",
+        "WinningPct": 0.333,
+        "Pythag1": 0.419,
+        "Wins": 1,
+        "Wins1": 1.3,
+        "Delta": -0.30000000000000004
+    },
+    {
+        "TeamName": "Duane Lang",
+        "WinningPct": 0.333,
+        "Pythag1": 0.59,
+        "Wins": 1,
+        "Wins1": 1.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Grant Brown",
+        "WinningPct": 0.5,
+        "Pythag1": 0.482,
+        "Wins": 2,
+        "Wins1": 1.9,
+        "Delta": 0.10000000000000009
+    },
+    {
+        "TeamName": "Mirac Ozkan",
+        "WinningPct": 0.0,
+        "Pythag1": 0.091,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Sagel Mercer",
+        "WinningPct": 0.0,
+        "Pythag1": 0.027,
+        "Wins": 0,
+        "Wins1": 0.1,
+        "Delta": -0.1
+    },
+    {
+        "TeamName": "Keith Nabuurs",
+        "WinningPct": 0.0,
+        "Pythag1": 0.1,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Tsubasa Nakagawa",
+        "WinningPct": 0.0,
+        "Pythag1": 0.157,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Mark Pillsworth",
+        "WinningPct": 0.0,
+        "Pythag1": 0.272,
+        "Wins": 0,
+        "Wins1": 0.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Fabio Ribotta",
+        "WinningPct": 0.0,
+        "Pythag1": 0.222,
+        "Wins": 0,
+        "Wins1": 0.9,
+        "Delta": -0.9
+    },
+    {
+        "TeamName": "Paul Richardsen",
+        "WinningPct": 0.0,
+        "Pythag1": 0.014,
+        "Wins": 0,
+        "Wins1": 0.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Jeff Reich",
+        "WinningPct": 0.0,
+        "Pythag1": 0.242,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "P.N. Raju",
+        "WinningPct": 0.0,
+        "Pythag1": 0.067,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Blair Pettipas",
+        "WinningPct": 0.0,
+        "Pythag1": 0.162,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Matthew Mepstead",
+        "WinningPct": 0.0,
+        "Pythag1": 0.2,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Jason Peckham",
+        "WinningPct": 0.0,
+        "Pythag1": 0.1,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Terry McNamee",
+        "WinningPct": 0.0,
+        "Pythag1": 0.404,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Bob Leclair",
+        "WinningPct": 0.0,
+        "Pythag1": 0.211,
+        "Wins": 0,
+        "Wins1": 1.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Mike Libbus",
+        "WinningPct": 0.545,
+        "Pythag1": 0.503,
+        "Wins": 12,
+        "Wins1": 11.1,
+        "Delta": 0.9000000000000004
+    },
+    {
+        "TeamName": "Dustin Lavigne",
+        "WinningPct": 0.0,
+        "Pythag1": 0.029,
+        "Wins": 0,
+        "Wins1": 0.1,
+        "Delta": -0.1
+    },
+    {
+        "TeamName": "Steve Lang",
+        "WinningPct": 0.0,
+        "Pythag1": 0.215,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Josh Maisey",
+        "WinningPct": 0.429,
+        "Pythag1": 0.568,
+        "Wins": 3,
+        "Wins1": 4.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Sonny Melancon",
+        "WinningPct": 0.0,
+        "Pythag1": 0.134,
+        "Wins": 0,
+        "Wins1": 0.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Marcelo Mello",
+        "WinningPct": 0.0,
+        "Pythag1": 0.04,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Kurtwood McGuire",
+        "WinningPct": 0.0,
+        "Pythag1": 0.116,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Jordon McDonald",
+        "WinningPct": 0.429,
+        "Pythag1": 0.657,
+        "Wins": 3,
+        "Wins1": 4.6,
+        "Delta": -1.5999999999999996
+    },
+    {
+        "TeamName": "Emil Markusson",
+        "WinningPct": 0.0,
+        "Pythag1": 0.094,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Christopher McCann",
+        "WinningPct": 0.0,
+        "Pythag1": 0.088,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Dominik Svarc",
+        "WinningPct": 0.0,
+        "Pythag1": 0.168,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Jotham Sugden",
+        "WinningPct": 0.0,
+        "Pythag1": 0.086,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Alexey Kulchak",
+        "WinningPct": 0.0,
+        "Pythag1": 0.127,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Dave Thomas",
+        "WinningPct": 0.0,
+        "Pythag1": 0.13,
+        "Wins": 0,
+        "Wins1": 1.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Murray Stroeder",
+        "WinningPct": 0.0,
+        "Pythag1": 0.068,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "John Stewart",
+        "WinningPct": 0.0,
+        "Pythag1": 0.206,
+        "Wins": 0,
+        "Wins1": 1.2,
+        "Delta": -1.2
+    },
+    {
+        "TeamName": "Bill Stopera",
+        "WinningPct": 0.0,
+        "Pythag1": 0.086,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Thomas Titchkosky",
+        "WinningPct": 0.714,
+        "Pythag1": 0.51,
+        "Wins": 5,
+        "Wins1": 3.6,
+        "Delta": 1.4
+    },
+    {
+        "TeamName": "Diego Tompkins",
+        "WinningPct": 0.0,
+        "Pythag1": 0.055,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Ethan Young",
+        "WinningPct": 0.0,
+        "Pythag1": 0.229,
+        "Wins": 0,
+        "Wins1": 1.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Jonathan Vilandt",
+        "WinningPct": 0.2,
+        "Pythag1": 0.335,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Luke Steski",
+        "WinningPct": 0.143,
+        "Pythag1": 0.238,
+        "Wins": 1,
+        "Wins1": 1.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Tracy Steinke",
+        "WinningPct": 0.5,
+        "Pythag1": 0.475,
+        "Wins": 4,
+        "Wins1": 3.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Clemens Scherrer",
+        "WinningPct": 0.0,
+        "Pythag1": 0.049,
+        "Wins": 0,
+        "Wins1": 0.1,
+        "Delta": -0.1
+    },
+    {
+        "TeamName": "Daryl Shane",
+        "WinningPct": 0.0,
+        "Pythag1": 0.251,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Kyosuke Sawaguchi",
+        "WinningPct": 0.0,
+        "Pythag1": 0.277,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Gilles Savoie",
+        "WinningPct": 0.0,
+        "Pythag1": 0.105,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Grant Shewfelt",
+        "WinningPct": 0.0,
+        "Pythag1": 0.221,
+        "Wins": 0,
+        "Wins1": 0.4,
+        "Delta": -0.4
+    },
+    {
+        "TeamName": "Matthew Smith",
+        "WinningPct": 0.0,
+        "Pythag1": 0.165,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Greg Skauge",
+        "WinningPct": 0.6,
+        "Pythag1": 0.613,
+        "Wins": 3,
+        "Wins1": 3.1,
+        "Delta": -0.10000000000000009
+    },
+    {
+        "TeamName": "TaeWoong Shin",
+        "WinningPct": 0.0,
+        "Pythag1": 0.187,
+        "Wins": 0,
+        "Wins1": 1.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Yoshiro Shimizu",
+        "WinningPct": 0.0,
+        "Pythag1": 0.052,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Kanya Shimizuno",
+        "WinningPct": 0.0,
+        "Pythag1": 0.177,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Steven Rotskas",
+        "WinningPct": 0.0,
+        "Pythag1": 0.138,
+        "Wins": 0,
+        "Wins1": 1.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Shawnessey Gallagher",
+        "WinningPct": 0.0,
+        "Pythag1": 0.172,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Jim Coleman",
+        "WinningPct": 0.0,
+        "Pythag1": 0.15,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Erik Colwell",
+        "WinningPct": 0.0,
+        "Pythag1": 0.062,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Tijani Cole",
+        "WinningPct": 0.0,
+        "Pythag1": 0.024,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Patrick Coburn",
+        "WinningPct": 0.0,
+        "Pythag1": 0.265,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Samuel Clasen",
+        "WinningPct": 0.0,
+        "Pythag1": 0.023,
+        "Wins": 0,
+        "Wins1": 0.1,
+        "Delta": -0.1
+    },
+    {
+        "TeamName": "Yves Cloutier",
+        "WinningPct": 0.0,
+        "Pythag1": 0.213,
+        "Wins": 0,
+        "Wins1": 0.9,
+        "Delta": -0.9
+    },
+    {
+        "TeamName": "Kyle Csversko",
+        "WinningPct": 0.0,
+        "Pythag1": 0.08,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Keith Dohey",
+        "WinningPct": 0.0,
+        "Pythag1": 0.068,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Hunter Dundas",
+        "WinningPct": 0.0,
+        "Pythag1": 0.054,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Richard Dick",
+        "WinningPct": 0.0,
+        "Pythag1": 0.233,
+        "Wins": 0,
+        "Wins1": 1.2,
+        "Delta": -1.2
+    },
+    {
+        "TeamName": "D'arcy Delorey",
+        "WinningPct": 0.25,
+        "Pythag1": 0.467,
+        "Wins": 1,
+        "Wins1": 1.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "David Daoust",
+        "WinningPct": 0.0,
+        "Pythag1": 0.187,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Luke Davidson",
+        "WinningPct": 0.0,
+        "Pythag1": 0.143,
+        "Wins": 0,
+        "Wins1": 1.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Josh Claeys",
+        "WinningPct": 0.0,
+        "Pythag1": 0.08,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Matt Bijl",
+        "WinningPct": 0.429,
+        "Pythag1": 0.405,
+        "Wins": 3,
+        "Wins1": 2.8,
+        "Delta": 0.20000000000000018
+    },
+    {
+        "TeamName": "Christian Birkeland",
+        "WinningPct": 0.0,
+        "Pythag1": 0.115,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Tyson Beyak",
+        "WinningPct": 0.143,
+        "Pythag1": 0.195,
+        "Wins": 1,
+        "Wins1": 1.4,
+        "Delta": -0.3999999999999999
+    },
+    {
+        "TeamName": "Sam Antila",
+        "WinningPct": 0.0,
+        "Pythag1": 0.308,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Wyllie Allan",
+        "WinningPct": 0.0,
+        "Pythag1": 0.091,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Rhys Allen",
+        "WinningPct": 0.0,
+        "Pythag1": 0.1,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Jonathan Brenton",
+        "WinningPct": 0.0,
+        "Pythag1": 0.048,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Roger Chan",
+        "WinningPct": 0.0,
+        "Pythag1": 0.032,
+        "Wins": 0,
+        "Wins1": 0.3,
+        "Delta": -0.3
+    },
+    {
+        "TeamName": "Gavin Cameron",
+        "WinningPct": 0.0,
+        "Pythag1": 0.162,
+        "Wins": 0,
+        "Wins1": 1.1,
+        "Delta": -1.1
+    },
+    {
+        "TeamName": "Trevor Calvert",
+        "WinningPct": 0.0,
+        "Pythag1": 0.212,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Joshua Bryden",
+        "WinningPct": 0.0,
+        "Pythag1": 0.236,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Martin Bukovsky",
+        "WinningPct": 0.0,
+        "Pythag1": 0.141,
+        "Wins": 0,
+        "Wins1": 1.3,
+        "Delta": -1.3
+    },
+    {
+        "TeamName": "Jonas Eden",
+        "WinningPct": 0.0,
+        "Pythag1": 0.2,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Glen Hudy",
+        "WinningPct": 0.5,
+        "Pythag1": 0.427,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Jack Hykaway",
+        "WinningPct": 0.75,
+        "Pythag1": 0.573,
+        "Wins": 6,
+        "Wins1": 4.6,
+        "Delta": 1.4000000000000004
+    },
+    {
+        "TeamName": "Jeremy Hozjan",
+        "WinningPct": 0.0,
+        "Pythag1": 0.08,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Darryl Horsman",
+        "WinningPct": 0.0,
+        "Pythag1": 0.191,
+        "Wins": 0,
+        "Wins1": 1.0,
+        "Delta": -1.0
+    },
+    {
+        "TeamName": "Milos Hoferka",
+        "WinningPct": 0.0,
+        "Pythag1": 0.127,
+        "Wins": 0,
+        "Wins1": 0.5,
+        "Delta": -0.5
+    },
+    {
+        "TeamName": "Aaron Horowitz",
+        "WinningPct": 0.0,
+        "Pythag1": 0.277,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Jordan Johnson",
+        "WinningPct": 0.429,
+        "Pythag1": 0.55,
+        "Wins": 3,
+        "Wins1": 3.9,
+        "Delta": -0.8999999999999999
+    },
+    {
+        "TeamName": "Max Kobylnyk",
+        "WinningPct": 0.0,
+        "Pythag1": 0.149,
+        "Wins": 0,
+        "Wins1": 0.9,
+        "Delta": -0.9
+    },
+    {
+        "TeamName": "Nobukazu Komoribayashi",
+        "WinningPct": 0.0,
+        "Pythag1": 0.232,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Emerson Klimpke",
+        "WinningPct": 0.714,
+        "Pythag1": 0.715,
+        "Wins": 5,
+        "Wins1": 5.0,
+        "Delta": 0.0
+    },
+    {
+        "TeamName": "Brad Kidd",
+        "WinningPct": 0.0,
+        "Pythag1": 0.251,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Jake Higgs",
+        "WinningPct": 0.0,
+        "Pythag1": 0.169,
+        "Wins": 0,
+        "Wins1": 1.2,
+        "Delta": -1.2
+    },
+    {
+        "TeamName": "Michio Hatano",
+        "WinningPct": 0.0,
+        "Pythag1": 0.223,
+        "Wins": 0,
+        "Wins1": 0.9,
+        "Delta": -0.9
+    },
+    {
+        "TeamName": "Shannon Fenelon",
+        "WinningPct": 0.0,
+        "Pythag1": 0.052,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Josh Firman",
+        "WinningPct": 0.0,
+        "Pythag1": 0.308,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Robert Fawns",
+        "WinningPct": 0.0,
+        "Pythag1": 0.19,
+        "Wins": 0,
+        "Wins1": 0.9,
+        "Delta": -0.9
+    },
+    {
+        "TeamName": "Eskil Eriksen",
+        "WinningPct": 0.0,
+        "Pythag1": 0.083,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Dennis Elgie",
+        "WinningPct": 0.0,
+        "Pythag1": 0.148,
+        "Wins": 0,
+        "Wins1": 0.6,
+        "Delta": -0.6
+    },
+    {
+        "TeamName": "Wayne Fleming",
+        "WinningPct": 0.0,
+        "Pythag1": 0.034,
+        "Wins": 0,
+        "Wins1": 0.2,
+        "Delta": -0.2
+    },
+    {
+        "TeamName": "Andrew Forrest",
+        "WinningPct": 0.0,
+        "Pythag1": 0.277,
+        "Wins": 0,
+        "Wins1": 0.8,
+        "Delta": -0.8
+    },
+    {
+        "TeamName": "Paul Harvey",
+        "WinningPct": 0.0,
+        "Pythag1": 0.18,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    },
+    {
+        "TeamName": "Brooks Freeman",
+        "WinningPct": 0.429,
+        "Pythag1": 0.377,
+        "Wins": 3,
+        "Wins1": 2.6,
+        "Delta": 0.3999999999999999
+    },
+    {
+        "TeamName": "Karel Kubeska",
+        "WinningPct": 0.0,
+        "Pythag1": 0.18,
+        "Wins": 0,
+        "Wins1": 0.7,
+        "Delta": -0.7
+    }
+]

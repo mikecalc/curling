@@ -1,1 +1,0 @@
-This directory contains code, spreadsheets, and articles related to curling analysis. 
